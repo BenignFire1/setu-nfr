@@ -9,6 +9,10 @@ import AdminLogin from "./pages/AdminLogin";
 import AdminPanel from "./pages/AdminPanel";
 import OpportunitiesHub from "./pages/OpportunitiesHub";
 import OpportunityDetail from "./pages/OpportunityDetail";
+import OnboardPage from "./pages/OnboardPage";
+import BenefitsPage from "./pages/BenefitsPage";
+import FeedbackPage from "./pages/FeedbackPage";
+import ContactPage from "./pages/ContactPage";
 
 const queryClient = new QueryClient();
 
@@ -24,6 +28,10 @@ const App = () => (
           <Route path="/opportunities/:categoryId" element={<OpportunityDetail />} />
           <Route path="/admin-login" element={<AdminLogin />} />
           <Route path="/admin" element={<AdminPanel />} />
+          <Route path="/onboard" element={<OnboardPage />} />
+          <Route path="/benefits" element={<BenefitsPage />} />
+          <Route path="/feedback" element={<FeedbackPage />} />
+          <Route path="/contact" element={<ContactPage />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

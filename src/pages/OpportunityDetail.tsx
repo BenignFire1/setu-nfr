@@ -159,7 +159,7 @@ const OpportunityDetail = () => {
                                     asChild
                                     className="w-full bg-gold text-secondary-foreground hover:bg-gold-dark font-semibold gap-2"
                                 >
-                                    <a href="/#onboard">
+                                    <a href="/onboard">
                                         Apply Now <ArrowRight className="h-4 w-4" />
                                     </a>
                                 </Button>
@@ -237,7 +237,7 @@ const OpportunityDetail = () => {
                                 size="lg"
                                 className="bg-primary text-primary-foreground hover:bg-primary/90 font-semibold gap-2"
                             >
-                                <a href="/#onboard">
+                                <a href="/onboard">
                                     Submit Application <ArrowRight className="h-4 w-4" />
                                 </a>
                             </Button>

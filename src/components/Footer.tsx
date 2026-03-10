@@ -1,9 +1,18 @@
 import { Mail, Phone, MapPin } from "lucide-react";
+import { Link } from "react-router-dom";
 import railwaysLogo from "@/assets/indian-railways-logo.png";
+
+const quickLinks = [
+  { label: "Opportunities", href: "/opportunities" },
+  { label: "Benefits", href: "/benefits" },
+  { label: "Onboard", href: "/onboard" },
+  { label: "Feedback", href: "/feedback" },
+  { label: "Contact", href: "/contact" },
+];
 
 const Footer = () => {
   return (
-    <footer id="contact" className="gradient-navy py-16">
+    <footer className="gradient-navy py-16">
       <div className="section-container">
         <div className="grid gap-10 md:grid-cols-3">
           <div>
@@ -20,14 +29,14 @@ const Footer = () => {
           <div>
             <h4 className="mb-4 font-display text-sm font-semibold uppercase tracking-widest text-gold">Quick Links</h4>
             <div className="flex flex-col gap-2">
-              {["Opportunities", "Benefits", "Onboard", "Feedback"].map((link) => (
-                <a
-                  key={link}
-                  href={`#${link.toLowerCase()}`}
+              {quickLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  to={link.href}
                   className="text-sm text-primary-foreground/60 hover:text-gold transition-colors"
                 >
-                  {link}
-                </a>
+                  {link.label}
+                </Link>
               ))}
             </div>
           </div>

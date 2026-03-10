@@ -102,7 +102,7 @@ const OpportunitiesHub = () => {
                                     size="lg"
                                     className="border-2 border-white/40 bg-transparent text-white hover:bg-white/10 font-semibold text-base px-8 gap-2"
                                 >
-                                    <a href="/#onboard">Apply Now</a>
+                                    <a href="/onboard">Apply Now</a>
                                 </Button>
                             </div>
 
