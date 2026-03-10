@@ -21,7 +21,7 @@ const Footer = () => {
               <span className="font-display text-lg font-bold text-primary-foreground">SETU-NFR</span>
             </div>
             <p className="text-sm leading-relaxed text-primary-foreground/60">
-              Strategic Alliance for Trade Unified Platform — Northeast Frontier Railway.
+              Strategic Ecosystem for Trade Unified Platform — Northeast Frontier Railway.
               Connecting Industries to Railways, Connecting Railways to Business.
             </p>
           </div>

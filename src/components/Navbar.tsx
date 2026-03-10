@@ -29,7 +29,7 @@ const Navbar = () => {
           <img src={railwaysLogo} alt="Indian Railways" className="h-9 w-9 object-contain" />
           <div>
             <span className="font-display text-lg font-bold text-primary-foreground">SETU-NFR</span>
-            <span className="ml-2 hidden text-xs text-gold sm:inline">Strategic Alliance for Trade Unified Platform</span>
+            <span className="ml-2 hidden text-xs text-gold sm:inline">Strategic Ecosystem for Trade Unified Platform</span>
           </div>
         </Link>
 
@@ -39,8 +39,8 @@ const Navbar = () => {
               key={l.href}
               to={l.href}
               className={`text-sm font-medium transition-colors ${isActive(l.href)
-                  ? "text-gold"
-                  : "text-primary-foreground/70 hover:text-gold"
+                ? "text-gold"
+                : "text-primary-foreground/70 hover:text-gold"
                 }`}
             >
               {l.label}
@@ -68,8 +68,8 @@ const Navbar = () => {
                 to={l.href}
                 onClick={() => setOpen(false)}
                 className={`text-sm font-medium transition-colors ${isActive(l.href)
-                    ? "text-gold"
-                    : "text-primary-foreground/80 hover:text-gold"
+                  ? "text-gold"
+                  : "text-primary-foreground/80 hover:text-gold"
                   }`}
               >
                 {l.label}

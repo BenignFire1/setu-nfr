@@ -22,7 +22,7 @@ const HeroSection = () => {
           <h1 className="mb-6 font-display text-4xl font-extrabold leading-tight text-primary-foreground sm:text-5xl lg:text-6xl">
             <span className="text-gradient-gold">SETU-NFR</span>
             <br />
-            <span className="md:whitespace-nowrap">Strategic Alliance for Trade</span>
+            <span className="md:whitespace-nowrap">Strategic Ecosystem for Trade</span>
             <br />
             <span className="text-gold">Unified Platform</span>
           </h1>

@@ -40,7 +40,7 @@ const OpportunityDetail = () => {
             }
         }
         return () => {
-            document.title = "SETU-NFR | Northeast Frontier Railway Business Portal";
+            document.title = "SETU-NFR | Strategic Ecosystem for Trade Unified Platform";
         };
     }, [category]);
 
