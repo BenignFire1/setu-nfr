@@ -17,7 +17,7 @@ const steps = [
         icon: Search,
         step: "01",
         title: "Browse",
-        desc: "Explore all 7 opportunity categories spanning the NFR network.",
+        desc: "Explore all 10 opportunity categories spanning the NFR network.",
     },
     {
         icon: Building,
@@ -82,7 +82,7 @@ const OpportunitiesHub = () => {
 
                             <p className="mb-8 text-lg leading-relaxed text-primary-foreground/70 sm:text-xl max-w-2xl">
                                 Explore business opportunities across{" "}
-                                <span className="text-gold font-semibold">7 categories</span> —
+                                <span className="text-gold font-semibold">10 categories</span> —
                                 from advertising and retail to infrastructure and digital solutions.
                             </p>
 
@@ -109,7 +109,7 @@ const OpportunitiesHub = () => {
                             {/* Stats */}
                             <div className="mt-12 grid grid-cols-3 gap-6 border-t border-primary-foreground/10 pt-8">
                                 {[
-                                    { value: "7", label: "Opportunity Categories" },
+                                    { value: "10", label: "Opportunity Categories" },
                                     { value: `${totalSubOpps}+`, label: "Sub-Opportunities" },
                                     { value: "500+", label: "NFR Stations" },
                                 ].map((s) => (

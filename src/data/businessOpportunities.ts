@@ -6,6 +6,9 @@ import {
     Cpu,
     Building2,
     Briefcase,
+    Truck,
+    Package,
+    ScrollText,
     LucideIcon,
 } from "lucide-react";
 
@@ -419,5 +422,163 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "Management consultants, engineering advisory firms, transport planners, and project management professionals.",
         route: "/opportunities/consultancy",
+    },
+    {
+        id: "new-policies",
+        title: "New Policies & Innovation",
+        icon: ScrollText,
+        tagline: "Progressive reforms & premium concepts",
+        description:
+            "Leverage new Indian Railways policy frameworks like NINFRIS and premium single-brand concepts to establish high-value businesses within NFR's ecosystem.",
+        color: "bg-violet-50",
+        iconColor: "text-violet-600",
+        borderColor: "hover:border-violet-300",
+        status: "Active",
+        deadline: "Open",
+        subCategories: [
+            {
+                name: "NINFRIS Opportunities",
+                items: [
+                    "Non-fare revenue licensing under NINFRIS",
+                    "NINFRIS-based long-term leasing",
+                    "Circular economy & green revenue models",
+                    "Revenue sharing partnerships",
+                ],
+            },
+            {
+                name: "Premium Single Brand Shops",
+                items: [
+                    "Premium flagship stores at A1 & A category stations",
+                    "Electronics & lifestyle brand outlets",
+                    "Single-brand fashion & apparel stores",
+                    "Luxury goods retail outlets",
+                ],
+            },
+            {
+                name: "New Innovative Ideas (NINFRIS)",
+                items: [
+                    "Subscription-based locker & storage services",
+                    "Wellness & fitness kiosks",
+                    "Experience & entertainment zones",
+                    "Pop-up marketplace concepts",
+                    "Creator economy & studio spaces",
+                ],
+            },
+        ],
+        whoShouldApply:
+            "Corporate brands, franchise operators, policy consultants, startup incubators, and premium retail chains looking to leverage new Indian Railways revenue policy frameworks.",
+        route: "/opportunities/new-policies",
+    },
+    {
+        id: "freight",
+        title: "Freight Opportunities",
+        icon: Truck,
+        tagline: "Power India's goods movement",
+        description:
+            "Partner with NFR for freight logistics — from Gati Shakti Cargo Terminals and Bulk Cement Handling to freight forwarding services across the Northeast corridor.",
+        color: "bg-yellow-50",
+        iconColor: "text-yellow-700",
+        borderColor: "hover:border-yellow-400",
+        status: "Active",
+        deadline: "Open",
+        subCategories: [
+            {
+                name: "Gati Shakti Cargo Terminals (GCTs)",
+                items: [
+                    "Development & operation of GCTs",
+                    "Private freight terminal leasing",
+                    "Multi-modal cargo handling facilities",
+                    "Integrated logistics hubs under PM Gati Shakti",
+                ],
+            },
+            {
+                name: "Bulk Cement Handling Terminals (BCTs)",
+                items: [
+                    "Bulk cement silo operations",
+                    "Cement terminal loading & unloading",
+                    "Bagging plant operations at BCTs",
+                    "Storage & dispatch management",
+                ],
+            },
+            {
+                name: "Freight Forwarders",
+                items: [
+                    "Registered railway freight forwarding agency",
+                    "Customs & documentation services",
+                    "Full wagon load (FWL) booking agents",
+                    "Inbound & outbound freight coordination",
+                ],
+            },
+            {
+                name: "Warehousing & Cold Chain",
+                items: [
+                    "Railway land-based warehousing",
+                    "Cold storage units at key stations",
+                    "Goods yard storage facilities",
+                ],
+            },
+            {
+                name: "Wagon & Yard Services",
+                items: [
+                    "Wagon leasing & maintenance",
+                    "Wagon cleaning & upkeep",
+                    "Freight yard operations management",
+                ],
+            },
+        ],
+        whoShouldApply:
+            "Logistics companies, freight forwarders, cement manufacturers, FMCG supply chain operators, cold chain providers, and goods transport aggregators.",
+        route: "/opportunities/freight",
+    },
+    {
+        id: "parcel",
+        title: "Parcel & Courier Services",
+        icon: Package,
+        tagline: "Railway-powered last-mile delivery",
+        description:
+            "Tap into India's fast-growing parcel economy using NFR's extensive rail network — from booking counters and express hubs to e-commerce integration across the Northeast.",
+        color: "bg-teal-50",
+        iconColor: "text-teal-600",
+        borderColor: "hover:border-teal-300",
+        status: "Active",
+        deadline: "Open",
+        subCategories: [
+            {
+                name: "Parcel Booking Counters",
+                items: [
+                    "Dedicated parcel booking offices",
+                    "Franchise parcel centres at stations",
+                    "Parcel aggregation points",
+                ],
+            },
+            {
+                name: "Express Parcel Hubs",
+                items: [
+                    "Fast parcel transit via mail/express trains",
+                    "Parcel sorting & consolidation hubs",
+                    "Time-definite parcel delivery services",
+                ],
+            },
+            {
+                name: "Last-Mile Delivery Integration",
+                items: [
+                    "Station to doorstep delivery services",
+                    "SHG-run delivery networks",
+                    "Hyperlocal parcel distribution",
+                ],
+            },
+            {
+                name: "E-Commerce Logistics",
+                items: [
+                    "Railway-based e-commerce parcel delivery",
+                    "Flipkart / Amazon Rail integration",
+                    "Reverse logistics via rail",
+                    "B2B parcel movement services",
+                ],
+            },
+        ],
+        whoShouldApply:
+            "Courier companies, e-commerce logistics providers, last-mile startups, SHGs, and parcel aggregators looking to leverage NFR's rail network for cost-effective delivery across the Northeast.",
+        route: "/opportunities/parcel",
     },
 ];
