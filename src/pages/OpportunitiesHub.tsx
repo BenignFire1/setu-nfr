@@ -4,8 +4,8 @@ import { ArrowRight, Search, Calendar, ChevronRight, Train, MapPin, Building } f
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { opportunityCategories } from "@/data/businessOpportunities";
+import StationExplorerSection from "@/components/StationExplorerSection";
 
 const statusStyle: Record<string, string> = {
     Active: "bg-green-100 text-green-800 border-green-200",
@@ -102,7 +102,7 @@ const OpportunitiesHub = () => {
                                     size="lg"
                                     className="border-2 border-white/40 bg-transparent text-white hover:bg-white/10 font-semibold text-base px-8 gap-2"
                                 >
-                                    <Link to="/#onboard">Apply Now</Link>
+                                    <a href="/#onboard">Apply Now</a>
                                 </Button>
                             </div>
 
@@ -263,6 +263,10 @@ const OpportunitiesHub = () => {
                     )}
                 </div>
             </section>
+
+
+            {/* ─── STATION EXPLORER ────────────────────────────────── */}
+            <StationExplorerSection compact />
 
             {/* ─── HOW IT WORKS ────────────────────────────────────── */}
             <section className="bg-surface-warm py-16 lg:py-20">
