@@ -1,233 +1,355 @@
-# Railway Advertising Opportunity Portal
+# Railway Business Opportunity Portal
 
-A platform that enables businesses to explore advertising opportunities across railway stations and submit proposals for campaigns.
+A platform that enables businesses, startups, contractors, and service providers to explore all partnership opportunities with Northeast Frontier Railway and submit proposals online.
 
-Businesses can discover opportunities in three ways:
+Businesses can discover opportunities across seven major categories:
 
-1. Advertise Station-Wise
-2. Advertise Sector-Wise
-3. Advertise by Reach
+1. Advertising & Media Monetisation
+2. Passenger Services & Amenities
+3. Retail, Food & Commercial Development
+4. Mobility & Transport Integration
+5. Digital & Smart Railway Solutions
+6. Infrastructure & Station Development
+7. Consultancy & Professional Services
 
 ---
 
-# 1. Advertise Station-Wise
+# 1. Advertising & Media Monetisation
 
-Businesses can select specific railway stations to explore advertising opportunities based on passenger traffic and station category.
+Leveraging high passenger footfall and railway assets for brand visibility.
 
-Each station page provides information about:
+Businesses can explore advertising opportunities in three ways:
 
+- Advertise Station-Wise
+- Advertise Sector-Wise
+- Advertise by Reach
+
+## 1.1 Train Media
+
+- Train vinyl wrapping
+- Coach interior advertising
+- Seatback advertising
+- Food tray advertising
+- Headrest cover advertising
+- Loco branding
+- LED advertising inside trains
+- Mirror sticker advertising in coaches
+- Train interior product display branding
+
+## 1.2 Station Media
+
+- Platform branding
+- Escalator branding
+- Lift branding
+- Waiting hall advertising
+- Digital standees
+- Advertising on benches and seating
+- Advertising on station signage boards
+- Advertisement on dustbins
+- Advertisement on solar panels
+
+## 1.3 Outdoor Advertising (OOH)
+
+- Hoardings on railway land
+- Advertising near station entry points
+- Bridge approach road advertising
+- Railway boundary wall advertising
+- Outdoor station forecourt advertising
+
+## 1.4 Digital & Audio Advertising
+
+- Audio advertising through station announcements
+- Interactive digital displays
+- LED advertising boards
+- Smart card branding
+- Augmented reality advertising mirrors
+
+## 1.5 Strategic Branding
+
+- Station naming rights
+- Corporate station branding
+- Event sponsorship partnerships
+- Large-format station branding campaigns
+
+### Station-Wise Discovery
+
+Businesses can select specific railway stations based on passenger traffic and category.
+
+Each station page provides:
 - Annual passenger traffic
-- Station category
+- Station category (NSG-1 to NSG-6)
 - Available advertising formats
 - Estimated audience reach
 
-## Example Stations
+### Sector-Wise Discovery
 
-### Guwahati Railway Station
-- Category: NSG-2
-- Annual Passengers: 69,30,846
+The platform recommends the most suitable stations and advertising formats for each industry.
 
-Available Advertising Formats:
-- Platform branding
-- LED digital screens
-- Escalator branding
-- Train vinyl wrap
-- Hoardings
+Sectors covered: FMCG, Telecom, Tourism, Banking & Finance, Education, Healthcare, Automobile, E-commerce
 
----
+### By Reach (Footfall Tiers)
 
-### New Jalpaiguri Railway Station
-- Category: NSG-2
-- Annual Passengers: 47,67,787
-
-Available Advertising Formats:
-- Platform displays
-- Digital standees
-- Train interior advertising
-- Outdoor hoardings
+| Tier | Annual Passengers | Best For |
+|------|-------------------|----------|
+| High Footfall | 40–70 lakh | National brand campaigns |
+| Medium Footfall | 10–40 lakh | Regional campaigns |
+| Emerging Market | 2–10 lakh | Local businesses |
 
 ---
 
-### Katihar Railway Station
-- Category: NSG-2
-- Annual Passengers: 64,45,323
+# 2. Passenger Services & Amenities
 
-Available Advertising Formats:
-- Platform branding
-- Waiting hall advertising
-- Outdoor hoardings
+Improving passenger comfort and convenience through private sector participation.
 
----
+## 2.1 Waiting & Rest Facilities
 
-# 2. Advertise Sector-Wise
+- AC paid waiting halls
+- Relaxation lounges
+- Relaxation massage chairs
+- Sleeping pods
+- Premium waiting rooms
 
-Businesses can explore advertising opportunities based on industry sector.
+## 2.2 Accommodation Services
 
-The platform suggests the most suitable stations and advertising formats for each sector.
+- Retiring rooms
+- Station dormitories
+- Railway guest houses
 
-## Example Sectors
+## 2.3 Passenger Hygiene Infrastructure
 
-### FMCG
-Recommended Stations:
-- Guwahati
-- New Jalpaiguri
-- Katihar
+- Pay & Use toilets
+- Women powder rooms
+- Sanitary napkin vending machines
+- Plastic bottle crushing machines
 
-Recommended Formats:
-- Platform branding
-- LED screens
-- Train advertising
+## 2.4 Passenger Assistance Services
 
----
+- Battery operated carts
+- E-wheelchair services
+- Porter-on-call services
+- Luggage assistance services
+- Trolley services
 
-### Telecom
-Recommended Stations:
-- Guwahati
-- Siliguri
-- Katihar
+## 2.5 Women & Family Facilities
 
-Recommended Formats:
-- Train vinyl wrap
-- Digital advertising screens
-- Platform displays
+- Nursing pods
+- Daycare centres
+- Women hygiene facilities
 
----
+## 2.6 Station Facility Management
 
-### Tourism
-Recommended Stations:
-- New Jalpaiguri
-- Dibrugarh
-- Agartala
+- Station facility maintenance
+- Station cleaning services
+- Passenger amenity management
+- Station operations management
 
-Recommended Formats:
-- Station entry branding
-- Outdoor hoardings
-- Waiting hall displays
+### Who Should Apply
+
+Service companies, hospitality businesses, NGOs, SHGs, and startups focused on passenger welfare and station management.
 
 ---
 
-### Banking & Financial Services
-Recommended Stations:
-- Guwahati
-- Katihar
-- Silchar
+# 3. Retail, Food & Commercial Development
 
-Recommended Formats:
-- Digital displays
-- Station branding
-- Waiting hall advertising
+Transforming railway stations into commercial retail destinations.
 
----
+## 3.1 Food & Beverage Retail
 
-### Education
-Recommended Stations:
-- Guwahati
-- Siliguri
-- Katihar
+- Branded food outlets
+- Food courts
+- Food vans
+- Rail coach restaurants
+- Automatic beverage vending machines
+- Water vending machines
 
-Recommended Formats:
-- Platform displays
-- Digital screens
-- Train interior advertising
+## 3.2 Catering & Hospitality
 
----
+- On-board catering services
+- Station restaurants
+- Food plaza operations
+- Premium hospitality lounges
 
-# 3. Advertise by Reach
+## 3.3 Retail Stores
 
-Businesses can explore advertising opportunities based on passenger reach and footfall.
+- Branded showrooms
+- Souvenir shops
+- Grocery stores
+- Textile stores
+- Herbal product stores
+- Military accessory shops
+- Pooja samagri counters
 
-Stations are grouped according to passenger traffic.
+## 3.4 Premium Brand Kiosks
 
-## High Footfall Stations
-Best suited for national brand campaigns.
+- Electronics kiosks
+- Fashion brand kiosks
+- FMCG product stalls
+- Telecom kiosks
 
-Examples:
-- Guwahati
-- New Jalpaiguri
-- Katihar
+## 3.5 Marketplaces & Commercial Zones
 
-Passenger Traffic:
-40–70 lakh passengers annually.
+- Flea markets
+- Shopping arcades
+- Multi-brand retail complexes
+- Commercial retail corridors
 
-Recommended Advertising Formats:
-- Station domination campaigns
-- Train vinyl wraps
-- LED digital advertising
-- Large outdoor hoardings
+### Who Should Apply
 
----
-
-## Medium Footfall Stations
-Best suited for regional campaigns.
-
-Examples:
-- Dibrugarh
-- Silchar
-- Agartala
-
-Passenger Traffic:
-10–20 lakh passengers annually.
-
-Recommended Advertising Formats:
-- Platform branding
-- Waiting hall displays
-- Digital standees
+Restaurant chains, food brands, retail franchises, FMCG companies, kiosk operators, and local entrepreneurs.
 
 ---
 
-## Emerging Market Stations
-Best suited for local businesses.
+# 4. Mobility & Transport Integration
 
-Examples:
-- Kishanganj
-- Rangiya
-- Jogbani
+Integrating railway stations with urban mobility networks.
 
-Passenger Traffic:
-2–10 lakh passengers annually.
+## 4.1 Cab Aggregators
 
-Recommended Advertising Formats:
-- Platform displays
-- Outdoor hoardings
-- Station entry branding
+- Cab aggregator partnerships
+- Dedicated cab pickup zones
+- Ride-sharing integration
+- App-based cab booking systems
+
+## 4.2 First Mile / Last Mile Connectivity
+
+- Bike rental services
+- Auto/taxi booking kiosks
+- Bus ticket kiosks
+- Shuttle services
+
+## 4.3 Parking Infrastructure
+
+- Surface parking facilities
+- Multi-level parking complexes
+- Smart parking management systems
+
+## 4.4 Electric Mobility Infrastructure
+
+- EV charging stations
+- Battery swapping facilities
+- Electric vehicle parking infrastructure
+
+## 4.5 Logistics & Freight Services
+
+- Parcel scanning facilities
+- Freight loading/unloading services
+- Parcel packing services
+- Goods yard warehousing
+- Freight wagon cleaning services
+- Residual cargo cleaning services
+
+### Who Should Apply
+
+Cab aggregators, EV companies, logistics providers, freight forwarders, and last-mile mobility startups.
 
 ---
 
-# 4. Advertising Formats
+# 5. Digital & Smart Railway Solutions
 
-The platform provides multiple advertising formats across railway infrastructure.
+Technology-driven modernisation of railway services.
 
-## Train Advertising
-- Train vinyl wrapping
-- Coach interior advertising
-- Seatback branding
-- Food tray advertising
+## 5.1 Passenger Information Systems
 
-## Station Advertising
-- Platform branding
-- Waiting hall displays
-- Escalator branding
-- Bench advertising
+- Digital information boards
+- Real-time train information displays
+- Passenger guidance systems
 
-## Outdoor Advertising
-- Hoardings
-- Station entry gates
-- Railway boundary wall branding
+## 5.2 Ticketing & Digital Platforms
 
-## Digital Advertising
-- LED display screens
-- Audio announcements
-- Interactive digital displays
+- Mobile ticketing applications
+- Integrated passenger apps
+- Digital travel platforms
+
+## 5.3 Smart Station Infrastructure
+
+- CCTV surveillance systems
+- IoT-based monitoring systems
+- Smart kiosks
+- Smart energy monitoring
+
+## 5.4 Digital Workspaces
+
+- Co-working lounges
+- Digital business centres
+- Shared office spaces at stations
+
+## 5.5 Interactive Passenger Experiences
+
+- Augmented reality installations
+- Smart interactive displays
+- Digital engagement zones
+
+### Who Should Apply
+
+IT companies, tech startups, SaaS providers, surveillance and IoT solution providers, and digital platform companies.
 
 ---
 
-# 5. Submit Proposal
+# 6. Infrastructure & Station Development
 
-Businesses can submit proposals for advertising campaigns.
+Large-scale infrastructure development opportunities for EPC and PPP players.
+
+## 6.1 Station Redevelopment
+
+- Station redevelopment projects
+- Amrit Bharat station modernisation
+- Commercial station complexes
+
+## 6.2 Landscape & Urban Development
+
+- Station landscaping
+- Riverfront development
+- Station campus beautification
+
+## 6.3 Track & Railway Infrastructure
+
+- Supply of track materials
+- Railway sleepers supply
+- Track maintenance services
+- Rail infrastructure upgrades
+
+### Who Should Apply
+
+EPC contractors, civil engineering firms, architecture and urban planning companies, and infrastructure developers.
+
+---
+
+# 7. Consultancy & Professional Services
+
+Professional advisory and project management services.
+
+## 7.1 Engineering Consultancy
+
+- Railway infrastructure design
+- Track engineering consultancy
+- Structural consultancy
+
+## 7.2 Project Management
+
+- EPC project supervision
+- Construction management
+- Infrastructure project monitoring
+
+## 7.3 Strategy & Planning
+
+- Transport planning consultancy
+- Station development planning
+- Railway operational planning
+
+### Who Should Apply
+
+Management consultants, engineering advisory firms, transport planners, and project management professionals.
+
+---
+
+# 8. Submit a Proposal
+
+Businesses can submit proposals for any of the above opportunity categories.
 
 ## Company Information
+
 - Company Name
-- Industry
+- Industry / Business Type
 - Website
 - Contact Person
 - Email
@@ -235,34 +357,29 @@ Businesses can submit proposals for advertising campaigns.
 
 ---
 
-## Advertising Interest
+## Opportunity Category
 
-Where would you like to advertise?
+Select the category of interest:
 
-Options:
-
-- Specific Station
-- Multiple Stations
-- All Stations
-
-If selecting specific stations, choose from:
-
-- Guwahati
-- New Jalpaiguri
-- Katihar
-- Silchar
-- Dibrugarh
-- Agartala
-- Others
+- Advertising & Media
+- Passenger Services & Amenities
+- Retail, Food & Commercial
+- Mobility & Transport
+- Digital & Smart Solutions
+- Infrastructure Development
+- Consultancy & Professional Services
 
 ---
 
-## Sector Selection
+## For Advertising Proposals
 
-Businesses can select multiple sectors.
+Where would you like to advertise?
 
-Options:
+- Specific Station
+- Multiple Stations
+- All Stations (Pan-NFR)
 
+Select industry sector:
 - FMCG
 - Telecom
 - Tourism
@@ -272,12 +389,7 @@ Options:
 - Automobile
 - E-commerce
 
----
-
-## Advertising Formats
-
 Select preferred formats:
-
 - Train advertising
 - Platform branding
 - LED screens
@@ -285,21 +397,28 @@ Select preferred formats:
 - Waiting hall displays
 - Escalator branding
 
----
-
-## Campaign Details
-
+Campaign Details:
 - Campaign Duration
 - Estimated Budget
 - Additional Notes
 
 ---
 
-# 6. Contact & Partnership
+## For Other Categories
 
-For advertising partnerships and enquiries.
+- Describe your service/product
+- Attach a business proposal (PDF)
+- Have you worked with Railways before?
+- Relevant experience
+
+---
+
+# 9. Contact & Partnership
+
+For business partnerships and enquiries.
 
 - Railway Commercial Department
+- Business Development Unit (BDU) — SETU-NFR
 - Advertising Partnership Email
 - Contact Number
 - Business Enquiry Form
