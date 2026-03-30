@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { opportunityCategories } from "@/data/businessOpportunities";
-import StationExplorerSection from "@/components/StationExplorerSection";
+
 
 const statusStyle: Record<string, string> = {
     Active: "bg-green-100 text-green-800 border-green-200",
@@ -264,9 +264,6 @@ const OpportunitiesHub = () => {
                 </div>
             </section>
 
-
-            {/* ─── STATION EXPLORER ────────────────────────────────── */}
-            <StationExplorerSection compact />
 
             {/* ─── HOW IT WORKS ────────────────────────────────────── */}
             <section className="bg-surface-warm py-16 lg:py-20">

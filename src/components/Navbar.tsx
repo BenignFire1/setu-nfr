@@ -7,6 +7,7 @@ import railwaysLogo from "@/assets/indian-railways-logo.png";
 const links = [
   { label: "Home", href: "/" },
   { label: "Opportunities", href: "/opportunities" },
+  { label: "Station Map", href: "/station-map" },
   { label: "Policies", href: "/policies" },
   { label: "Success Stories", href: "/success-stories" },
   { label: "Onboard", href: "/onboard" },
