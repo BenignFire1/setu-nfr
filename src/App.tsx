@@ -17,6 +17,7 @@ import ContactPage from "./pages/ContactPage";
 import PoliciesPage from "./pages/PoliciesPage";
 import SuccessStoriesPage from "./pages/SuccessStoriesPage";
 import StationMapPage from "./pages/StationMapPage";
+import GlobalLayout from "./components/GlobalLayout";
 
 const queryClient = new QueryClient();
 
@@ -27,22 +28,24 @@ const App = () => (
       <Sonner />
       <BrowserRouter>
         <ScrollToTop />
-        <Routes>
-          <Route path="/" element={<Index />} />
-          <Route path="/opportunities" element={<OpportunitiesHub />} />
-          <Route path="/opportunities/:categoryId" element={<OpportunityDetail />} />
-          <Route path="/admin-login" element={<AdminLogin />} />
-          <Route path="/admin" element={<AdminPanel />} />
-          <Route path="/onboard" element={<OnboardPage />} />
-          <Route path="/benefits" element={<BenefitsPage />} />
-          <Route path="/feedback" element={<FeedbackPage />} />
-          <Route path="/contact" element={<ContactPage />} />
-          <Route path="/policies" element={<PoliciesPage />} />
-          <Route path="/success-stories" element={<SuccessStoriesPage />} />
-          <Route path="/station-map" element={<StationMapPage />} />
-          {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+        <GlobalLayout>
+          <Routes>
+            <Route path="/" element={<Index />} />
+            <Route path="/opportunities" element={<OpportunitiesHub />} />
+            <Route path="/opportunities/:categoryId" element={<OpportunityDetail />} />
+            <Route path="/admin-login" element={<AdminLogin />} />
+            <Route path="/admin" element={<AdminPanel />} />
+            <Route path="/onboard" element={<OnboardPage />} />
+            <Route path="/benefits" element={<BenefitsPage />} />
+            <Route path="/feedback" element={<FeedbackPage />} />
+            <Route path="/contact" element={<ContactPage />} />
+            <Route path="/policies" element={<PoliciesPage />} />
+            <Route path="/success-stories" element={<SuccessStoriesPage />} />
+            <Route path="/station-map" element={<StationMapPage />} />
+            {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </GlobalLayout>
       </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>

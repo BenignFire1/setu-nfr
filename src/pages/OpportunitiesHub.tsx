@@ -57,84 +57,76 @@ const OpportunitiesHub = () => {
     );
 
     return (
-        <div className="min-h-screen bg-background">
-            <Navbar />
-
+        <div className="pb-12">
             {/* ─── HERO ─────────────────────────────────────────────── */}
-            <section className="relative pt-16 overflow-hidden">
-                <div className="gradient-navy">
-                    <div className="absolute inset-0 opacity-10"
-                        style={{
-                            backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
-                        }}
-                    />
-                    <div className="section-container relative py-24 lg:py-32">
-                        <div className="max-w-3xl animate-fade-up">
-                            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-gold/30 bg-gold/10 px-4 py-1.5">
-                                <MapPin className="h-4 w-4 text-gold" />
-                                <span className="text-sm font-medium text-gold">Northeast Frontier Railway</span>
-                            </div>
+            <section className="relative overflow-hidden py-16 lg:py-24">
+                <div className="section-container relative">
+                    <div className="max-w-3xl animate-fade-up">
+                        <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-emerald-100 bg-emerald-50 px-4 py-1.5">
+                            <MapPin className="h-4 w-4 text-emerald-600" />
+                            <span className="text-sm font-semibold text-emerald-700">Northeast Frontier Railway</span>
+                        </div>
 
-                            <h1 className="mb-5 font-display text-4xl font-extrabold leading-tight text-primary-foreground sm:text-5xl lg:text-6xl">
-                                Partner with{" "}
-                                <span className="text-gradient-gold">NFR Railway</span>
-                            </h1>
+                        <h1 className="mb-5 font-display text-4xl font-extrabold leading-tight text-slate-900 sm:text-5xl lg:text-5xl">
+                            Partner with{" "}
+                            <span className="text-emerald-600">NFR Railway</span>
+                        </h1>
 
-                            <p className="mb-8 text-lg leading-relaxed text-primary-foreground/70 sm:text-xl max-w-2xl">
-                                Explore business opportunities across{" "}
-                                <span className="text-gold font-semibold">10 categories</span> —
-                                from advertising and retail to infrastructure and digital solutions.
-                            </p>
+                        <p className="mb-8 text-lg leading-relaxed text-slate-600 sm:text-xl max-w-2xl font-medium">
+                            Explore business opportunities across{" "}
+                            <span className="text-emerald-700 font-bold">10 categories</span> —
+                            from advertising and retail to infrastructure and digital solutions.
+                        </p>
 
-                            <div className="flex flex-col gap-4 sm:flex-row">
-                                <Button
-                                    asChild
-                                    size="lg"
-                                    className="bg-gold text-secondary-foreground hover:bg-gold-dark font-semibold text-base px-8 gap-2"
-                                >
-                                    <a href="#categories">
-                                        Explore Opportunities
-                                        <ArrowRight className="h-4 w-4" />
-                                    </a>
-                                </Button>
-                                <Button
-                                    asChild
-                                    size="lg"
-                                    className="border-2 border-white/40 bg-transparent text-white hover:bg-white/10 font-semibold text-base px-8 gap-2"
-                                >
-                                    <a href="/onboard">Apply Now</a>
-                                </Button>
-                            </div>
+                        <div className="flex flex-col gap-4 sm:flex-row">
+                            <Button
+                                asChild
+                                size="lg"
+                                className="bg-emerald-600 text-white hover:bg-emerald-700 font-semibold text-base px-8 gap-2 shadow-lg shadow-emerald-500/20"
+                            >
+                                <a href="#categories">
+                                    Explore Opportunities
+                                    <ArrowRight className="h-4 w-4" />
+                                </a>
+                            </Button>
+                            <Button
+                                asChild
+                                size="lg"
+                                variant="outline"
+                                className="border-slate-200 bg-white/50 backdrop-blur-md text-slate-700 hover:bg-emerald-50 font-semibold text-base px-8 gap-2"
+                            >
+                                <a href="/onboard">Apply Now</a>
+                            </Button>
+                        </div>
 
-                            {/* Stats */}
-                            <div className="mt-12 grid grid-cols-3 gap-6 border-t border-primary-foreground/10 pt-8">
-                                {[
-                                    { value: "10", label: "Opportunity Categories" },
-                                    { value: `${totalSubOpps}+`, label: "Sub-Opportunities" },
-                                    { value: "500+", label: "NFR Stations" },
-                                ].map((s) => (
-                                    <div key={s.label}>
-                                        <div className="font-display text-2xl font-bold text-gold sm:text-3xl">{s.value}</div>
-                                        <div className="text-sm text-primary-foreground/60">{s.label}</div>
-                                    </div>
-                                ))}
-                            </div>
+                        {/* Stats */}
+                        <div className="mt-12 grid grid-cols-3 gap-6 border-t border-slate-200 pt-8">
+                            {[
+                                { value: "10", label: "Opportunity Categories" },
+                                { value: `${totalSubOpps}+`, label: "Sub-Opportunities" },
+                                { value: "500+", label: "NFR Stations" },
+                            ].map((s) => (
+                                <div key={s.label}>
+                                    <div className="font-display text-2xl font-bold text-emerald-600 sm:text-3xl">{s.value}</div>
+                                    <div className="text-sm text-slate-500 font-medium">{s.label}</div>
+                                </div>
+                            ))}
                         </div>
                     </div>
                 </div>
             </section>
 
             {/* ─── FILTER BAR ───────────────────────────────────────── */}
-            <div className="sticky top-16 z-40 border-b border-border bg-background/95 backdrop-blur-sm shadow-sm">
-                <div className="section-container flex flex-col gap-3 py-3 sm:flex-row sm:items-center sm:gap-4">
+            <div className="sticky top-16 z-40 border-b border-slate-200 bg-white/70 backdrop-blur-md shadow-sm">
+                <div className="section-container flex flex-col gap-3 py-4 sm:flex-row sm:items-center sm:gap-4">
                     <div className="relative flex-1">
-                        <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+                        <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
                         <input
                             type="text"
                             placeholder="Search opportunities, categories, services..."
                             value={search}
                             onChange={(e) => setSearch(e.target.value)}
-                            className="w-full rounded-lg border border-border bg-card py-2 pl-9 pr-4 text-sm text-foreground placeholder:text-muted-foreground focus:border-gold/50 focus:outline-none focus:ring-2 focus:ring-gold/20 transition-all"
+                            className="w-full rounded-xl border border-slate-200 bg-white/50 py-2.5 pl-10 pr-4 text-sm text-slate-900 placeholder:text-slate-400 focus:border-emerald-500/50 focus:outline-none focus:ring-4 focus:ring-emerald-500/10 transition-all font-medium"
                         />
                     </div>
                     <div className="flex items-center gap-2">
@@ -142,53 +134,53 @@ const OpportunitiesHub = () => {
                             <button
                                 key={status}
                                 onClick={() => setFilterStatus(status)}
-                                className={`rounded-full px-4 py-1.5 text-sm font-medium transition-all border ${filterStatus === status
-                                    ? "bg-primary text-primary-foreground border-primary"
-                                    : "bg-card text-muted-foreground border-border hover:border-primary/40 hover:text-foreground"
+                                className={`rounded-full px-4 py-1.5 text-sm font-bold transition-all border ${filterStatus === status
+                                    ? "bg-emerald-600 text-white border-emerald-600 shadow-md shadow-emerald-500/20"
+                                    : "bg-white/60 text-slate-600 border-slate-200 hover:border-emerald-400/40 hover:text-emerald-700"
                                     }`}
                             >
                                 {status}
                             </button>
                         ))}
                     </div>
-                    <span className="text-xs text-muted-foreground whitespace-nowrap">
-                        {filtered.length} of {opportunityCategories.length} categories
+                    <span className="text-xs text-slate-500 font-bold whitespace-nowrap bg-slate-100/80 px-2 py-1 rounded-md">
+                        {filtered.length} Categories
                     </span>
                 </div>
             </div>
 
             {/* ─── CATEGORY TILES ──────────────────────────────────── */}
-            <section id="categories" className="py-16 lg:py-20">
+            <section id="categories" className="py-16 lg:py-24">
                 <div className="section-container">
-                    <div className="mx-auto max-w-2xl text-center mb-12">
-                        <span className="text-sm font-semibold uppercase tracking-widest text-gold-dark">
+                    <div className="mx-auto max-w-2xl text-center mb-16">
+                        <span className="text-sm font-bold uppercase tracking-widest text-emerald-600">
                             Current Openings
                         </span>
-                        <h2 className="mt-3 font-display text-3xl font-bold text-foreground sm:text-4xl">
+                        <h2 className="mt-3 font-display text-3xl font-bold text-slate-900 sm:text-4xl">
                             Business Opportunity Categories
                         </h2>
-                        <p className="mt-4 text-muted-foreground">
+                        <p className="mt-4 text-slate-600 font-medium">
                             Select a category to explore all available sub-opportunities, requirements, and how to apply.
                         </p>
                     </div>
 
                     {filtered.length === 0 ? (
-                        <div className="flex flex-col items-center py-20 text-center">
-                            <Search className="mb-4 h-10 w-10 text-muted-foreground/40" />
-                            <p className="text-lg font-semibold text-foreground">No results found</p>
-                            <p className="mt-1 text-sm text-muted-foreground">
+                        <div className="flex flex-col items-center py-20 text-center glass-panel rounded-3xl mx-4">
+                            <Search className="mb-4 h-12 w-12 text-slate-300" />
+                            <p className="text-lg font-bold text-slate-800">No results found</p>
+                            <p className="mt-1 text-sm text-slate-500 font-medium">
                                 Try a different search term or clear the filter.
                             </p>
                             <Button
                                 variant="outline"
-                                className="mt-4"
+                                className="mt-6 border-emerald-200 hover:bg-emerald-50 text-emerald-700"
                                 onClick={() => { setSearch(""); setFilterStatus("All"); }}
                             >
-                                Clear Filters
+                                Clear All Filters
                             </Button>
                         </div>
                     ) : (
-                        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
                             {filtered.map((cat, i) => {
                                 const Icon = cat.icon;
                                 const totalItems = cat.subCategories.reduce(
@@ -198,61 +190,57 @@ const OpportunitiesHub = () => {
                                     <Link
                                         key={cat.id}
                                         to={cat.route}
-                                        className={`group flex flex-col rounded-2xl border-2 border-border bg-card p-6 transition-all duration-300 hover:shadow-xl hover:-translate-y-1 ${cat.borderColor}`}
+                                        className={`group flex flex-col rounded-3xl border border-white/80 bg-white/50 backdrop-blur-xl p-8 transition-all duration-500 hover:shadow-2xl hover:shadow-emerald-500/10 hover:-translate-y-2 shadow-xl animate-fade-in`}
                                         style={{ animationDelay: `${i * 60}ms` }}
                                     >
                                         {/* Header */}
-                                        <div className="mb-4 flex items-start justify-between">
-                                            <div className={`inline-flex h-14 w-14 items-center justify-center rounded-xl ${cat.color}`}>
-                                                <Icon className={`h-7 w-7 ${cat.iconColor}`} />
+                                        <div className="mb-6 flex items-start justify-between">
+                                            <div className={`inline-flex h-16 w-16 items-center justify-center rounded-2xl ${cat.color.replace('bg-', 'bg-')}`}>
+                                                <Icon className={`h-8 w-8 ${cat.iconColor}`} />
                                             </div>
                                             <span
-                                                className={`inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold ${statusStyle[cat.status]}`}
+                                                className={`inline-flex items-center rounded-full border px-3 py-1 text-[10px] font-bold uppercase tracking-wider ${statusStyle[cat.status]}`}
                                             >
                                                 {cat.status}
                                             </span>
                                         </div>
 
                                         {/* Title + tagline */}
-                                        <p className={`mb-1 text-xs font-semibold uppercase tracking-wider ${cat.iconColor}`}>
+                                        <p className={`mb-1.5 text-[10px] font-bold uppercase tracking-widest ${cat.iconColor}`}>
                                             {cat.tagline}
                                         </p>
-                                        <h3 className="mb-2 font-display text-xl font-bold text-card-foreground group-hover:text-primary transition-colors">
+                                        <h3 className="mb-3 font-display text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition-colors">
                                             {cat.title}
                                         </h3>
-                                        <p className="mb-5 flex-1 text-sm leading-relaxed text-muted-foreground">
+                                        <p className="mb-6 flex-1 text-sm leading-relaxed text-slate-600 font-medium">
                                             {cat.description}
                                         </p>
 
                                         {/* Sub-categories preview */}
-                                        <div className="mb-5 flex flex-wrap gap-1.5">
+                                        <div className="mb-6 flex flex-wrap gap-2">
                                             {cat.subCategories.slice(0, 3).map((sc) => (
                                                 <span
                                                     key={sc.name}
-                                                    className="rounded-full bg-muted px-2.5 py-0.5 text-xs text-muted-foreground"
+                                                    className="rounded-lg bg-slate-100/80 px-2.5 py-1 text-[10px] font-bold text-slate-500 uppercase tracking-tight"
                                                 >
                                                     {sc.name}
                                                 </span>
                                             ))}
                                             {cat.subCategories.length > 3 && (
-                                                <span className="rounded-full bg-muted px-2.5 py-0.5 text-xs text-muted-foreground">
+                                                <span className="rounded-lg bg-emerald-50 px-2.5 py-1 text-[10px] font-bold text-emerald-600 uppercase">
                                                     +{cat.subCategories.length - 3} more
                                                 </span>
                                             )}
                                         </div>
 
                                         {/* Footer row */}
-                                        <div className="flex items-center justify-between border-t border-border pt-4">
-                                            <div className="flex items-center gap-3 text-xs text-muted-foreground">
-                                                <span className="flex items-center gap-1">
-                                                    <span className={`font-bold text-sm ${cat.iconColor}`}>{totalItems}+</span> opportunities
-                                                </span>
-                                                <span className="flex items-center gap-1">
-                                                    <Calendar className="h-3.5 w-3.5" />
-                                                    {cat.deadline}
+                                        <div className="flex items-center justify-between border-t border-slate-100 pt-6">
+                                            <div className="flex items-center gap-4 text-xs text-slate-400 font-bold">
+                                                <span className="flex items-center gap-1.5">
+                                                    <span className={`text-sm ${cat.iconColor}`}>{totalItems}+</span> Opportunities
                                                 </span>
                                             </div>
-                                            <span className={`flex items-center gap-1 text-sm font-semibold ${cat.iconColor} group-hover:gap-2 transition-all`}>
+                                            <span className={`flex items-center gap-1.5 text-sm font-bold ${cat.iconColor} group-hover:gap-2.5 transition-all text-emerald-600`}>
                                                 Explore <ChevronRight className="h-4 w-4" />
                                             </span>
                                         </div>
@@ -266,55 +254,53 @@ const OpportunitiesHub = () => {
 
 
             {/* ─── HOW IT WORKS ────────────────────────────────────── */}
-            <section className="bg-surface-warm py-16 lg:py-20">
-                <div className="section-container">
-                    <div className="mx-auto max-w-2xl text-center mb-12">
-                        <span className="text-sm font-semibold uppercase tracking-widest text-gold-dark">
-                            Simple Process
+            <section className="py-20 lg:py-28">
+                <div className="section-container ceramic-panel rounded-3xl py-16 px-8">
+                    <div className="mx-auto max-w-2xl text-center mb-16">
+                        <span className="text-sm font-bold uppercase tracking-widest text-emerald-600">
+                            Professional Process
                         </span>
-                        <h2 className="mt-3 font-display text-3xl font-bold text-foreground sm:text-4xl">
+                        <h2 className="mt-3 font-display text-4xl font-bold text-slate-900">
                             How It Works
                         </h2>
                     </div>
-                    <div className="grid gap-8 sm:grid-cols-3">
+                    <div className="grid gap-12 sm:grid-cols-3">
                         {steps.map((s, i) => {
                             const Icon = s.icon;
                             return (
-                                <div key={s.step} className="relative flex flex-col items-center text-center">
+                                <div key={s.step} className="relative flex flex-col items-center text-center px-4">
                                     {i < steps.length - 1 && (
-                                        <div className="absolute left-[calc(50%+3rem)] top-10 hidden h-px w-[calc(100%-6rem)] border-t-2 border-dashed border-border sm:block" />
+                                        <div className="absolute left-[calc(50%+4rem)] top-12 hidden h-px w-[calc(100%-8rem)] border-t-2 border-dashed border-emerald-100 sm:block" />
                                     )}
-                                    <div className="mb-4 relative">
-                                        <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-primary/10 border-2 border-primary/20">
-                                            <Icon className="h-8 w-8 text-primary" />
+                                    <div className="mb-6 relative">
+                                        <div className="flex h-24 w-24 items-center justify-center rounded-3xl bg-emerald-50 border border-emerald-100 shadow-inner">
+                                            <Icon className="h-10 w-10 text-emerald-600" />
                                         </div>
-                                        <span className="absolute -top-2 -right-2 flex h-6 w-6 items-center justify-center rounded-full bg-gold text-xs font-bold text-secondary-foreground">
+                                        <span className="absolute -top-3 -right-3 flex h-8 w-8 items-center justify-center rounded-xl bg-emerald-600 text-xs font-bold text-white shadow-lg">
                                             {s.step}
                                         </span>
                                     </div>
-                                    <h3 className="mb-2 font-display text-lg font-bold text-foreground">{s.title}</h3>
-                                    <p className="text-sm leading-relaxed text-muted-foreground">{s.desc}</p>
+                                    <h3 className="mb-3 font-display text-xl font-bold text-slate-900">{s.title}</h3>
+                                    <p className="text-sm leading-relaxed text-slate-500 font-medium">{s.desc}</p>
                                 </div>
                             );
                         })}
                     </div>
 
-                    <div className="mt-12 text-center">
+                    <div className="mt-16 text-center">
                         <Button
                             asChild
                             size="lg"
-                            className="bg-primary text-primary-foreground hover:bg-primary/90 font-semibold gap-2"
+                            className="bg-emerald-600 text-white hover:bg-emerald-700 font-bold px-10 h-14 rounded-xl shadow-xl shadow-emerald-500/20 gap-3"
                         >
                             <Link to="/#onboard">
-                                Submit Your Application
-                                <ArrowRight className="h-4 w-4" />
+                                Start Your Application
+                                <ArrowRight className="h-5 w-5" />
                             </Link>
                         </Button>
                     </div>
                 </div>
             </section>
-
-            <Footer />
         </div>
     );
 };

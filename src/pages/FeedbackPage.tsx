@@ -11,31 +11,29 @@ const FeedbackPage = () => {
     }, []);
 
     return (
-        <div className="min-h-screen bg-background">
-            <Navbar />
-
+        <div className="pb-12">
             {/* Hero */}
-            <section className="gradient-navy pt-28 pb-16">
+            <section className="py-16">
                 <div className="section-container">
                     {/* Breadcrumb */}
-                    <nav className="mb-6 flex items-center gap-2 text-sm text-primary-foreground/50">
-                        <Link to="/" className="hover:text-gold transition-colors">Home</Link>
+                    <nav className="mb-6 flex items-center gap-2 text-sm text-slate-500 font-medium">
+                        <Link to="/" className="hover:text-emerald-600 transition-colors">Home</Link>
                         <ChevronRight className="h-3.5 w-3.5" />
-                        <span className="text-gold">Feedback</span>
+                        <span className="text-emerald-700">Feedback</span>
                     </nav>
-                    <h1 className="font-display text-4xl font-extrabold text-primary-foreground sm:text-5xl">
-                        Share Your Business Interests
+                    <h1 className="font-display text-4xl font-extrabold text-slate-900 sm:text-5xl">
+                        Share Your <span className="text-emerald-600">Business Interests</span>
                     </h1>
-                    <p className="mt-4 max-w-2xl text-lg text-primary-foreground/70">
+                    <p className="mt-4 max-w-2xl text-lg text-slate-600 font-medium">
                         SETU-NFR invites businesses to share their areas of interest and expertise. Your inputs help us shape better partnership opportunities.
                     </p>
                 </div>
             </section>
 
-            {/* Reuse the existing FeedbackSection component */}
-            <FeedbackSection />
-
-            <Footer />
+            {/* Main content wrapped in glass */}
+            <div className="mx-4 glass-panel rounded-3xl overflow-hidden py-4">
+                <FeedbackSection />
+            </div>
         </div>
     );
 };

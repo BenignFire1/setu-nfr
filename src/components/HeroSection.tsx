@@ -5,12 +5,9 @@ import { ArrowRight, Building2, MessageSquare } from "lucide-react";
 
 const HeroSection = () => {
   return (
-    <section id="home" className="relative min-h-screen flex items-center overflow-hidden">
-      {/* Background */}
-      <div className="absolute inset-0">
-        <img src={heroImage} alt="NF Railway through Northeast India" className="h-full w-full object-cover" />
-        <div className="absolute inset-0 bg-gradient-to-r from-navy-deep/95 via-navy/85 to-navy/60" />
-      </div>
+    <section id="home" className="relative min-h-[90vh] flex items-center overflow-hidden">
+      {/* Daylight Glass Overlay */}
+      <div className="absolute inset-0 bg-white/10 backdrop-blur-[2px]" />
 
       <div className="relative section-container py-32 lg:py-40">
         <div className="max-w-3xl animate-fade-up">
@@ -19,15 +16,15 @@ const HeroSection = () => {
             <span className="text-sm font-medium text-gold">Northeast Frontier Railway</span>
           </div>
 
-          <h1 className="mb-6 font-display text-4xl font-extrabold leading-tight text-primary-foreground sm:text-5xl lg:text-6xl">
-            <span className="text-gradient-gold">SETU-NFR</span>
+          <h1 className="mb-6 font-display text-4xl font-extrabold leading-tight text-slate-900 sm:text-5xl lg:text-6xl">
+            <span className="text-emerald-600">SETU-NFR</span>
             <br />
             <span className="md:whitespace-nowrap">Strategic Ecosystem for Trade</span>
             <br />
-            <span className="text-gold">Unified Platform</span>
+            <span className="text-emerald-700">Unified Platform</span>
           </h1>
 
-          <p className="mb-8 text-lg leading-relaxed text-primary-foreground/75 sm:text-xl">
+          <p className="mb-8 text-lg leading-relaxed text-slate-600 sm:text-xl font-medium">
             Connecting Industries to Railways. Connecting Railways to Business.
             Onboard your business for railway partnerships, supply opportunities,
             and infrastructure development across the Northeast.
@@ -37,7 +34,7 @@ const HeroSection = () => {
             <Button
               asChild
               size="lg"
-              className="bg-gold text-secondary-foreground hover:bg-gold-dark font-semibold text-base px-8 gap-2">
+              className="bg-emerald-600 text-white hover:bg-emerald-700 font-semibold text-base px-8 gap-2 shadow-lg shadow-emerald-500/20">
 
               <a href="#onboard">
                 <Building2 className="h-5 w-5" />
@@ -49,25 +46,25 @@ const HeroSection = () => {
               asChild
               size="lg"
               variant="outline"
-              className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold text-base px-8 gap-2">
+              className="border-slate-200 text-slate-700 hover:bg-emerald-50 font-semibold text-base px-8 gap-2 bg-white/50 backdrop-blur-md">
 
-              <a href="#feedback" className="text-secondary bg-primary">
-                <MessageSquare className="h-5 w-5" />
+              <a href="#feedback" className="flex items-center gap-2">
+                <MessageSquare className="h-5 w-5 text-emerald-600" />
                 Share Your Interest
               </a>
             </Button>
           </div>
 
           {/* Stats */}
-          <div className="mt-12 grid grid-cols-3 gap-6 border-t border-primary-foreground/10 pt-8">
+          <div className="mt-12 grid grid-cols-3 gap-6 border-t border-slate-200 pt-8">
             {[
               { value: "10", label: "States Covered" },
               { value: "500+", label: "Stations" },
               { value: "₹5000Cr+", label: "Annual Projects" }].
               map((stat) =>
                 <div key={stat.label}>
-                  <div className="font-display text-2xl font-bold text-gold sm:text-3xl">{stat.value}</div>
-                  <div className="text-sm text-primary-foreground/60">{stat.label}</div>
+                  <div className="font-display text-2xl font-bold text-emerald-600 sm:text-3xl">{stat.value}</div>
+                  <div className="text-sm text-slate-500 font-medium">{stat.label}</div>
                 </div>
               )}
           </div>

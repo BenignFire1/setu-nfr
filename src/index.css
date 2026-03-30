@@ -142,4 +142,35 @@
     from { opacity: 0; }
     to { opacity: 1; }
   }
+
+  .animate-ken-burns {
+    animation: kenBurns 40s ease-in-out infinite alternate;
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  @keyframes kenBurns {
+    0% { transform: scale(1) translate(0, 0); }
+    100% { transform: scale(1.15) translate(-1%, -1%); }
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+
+  /* High-Contrast Glassmorphism Variants */
+  .glass-panel {
+    @apply backdrop-blur-xl border border-white/80 bg-white/80 shadow-2xl;
+  }
+
+  .dark-glass-panel {
+    @apply backdrop-blur-xl border border-white/10 bg-slate-900/40 shadow-2xl;
+  }
+
+  .ceramic-panel {
+    @apply backdrop-blur-md border border-white/90 bg-white/90 shadow-xl;
+  }
 }
