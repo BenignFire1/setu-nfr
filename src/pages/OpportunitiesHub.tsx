@@ -1,6 +1,6 @@
 import { useState, useMemo } from "react";
 import { Link } from "react-router-dom";
-import { ArrowRight, Search, Calendar, ChevronRight, Train, MapPin, Building } from "lucide-react";
+import { ArrowRight, Search, Calendar, ChevronRight, Train, MapPin, Building, ExternalLink, Globe, Layout, ShieldCheck, ShoppingCart, UserCheck } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
@@ -30,6 +30,57 @@ const steps = [
         step: "03",
         title: "Get Connected",
         desc: "BDU team reviews your profile and contacts you within 5–7 days.",
+    },
+];
+
+const portals = [
+    {
+        name: "IREPS",
+        description: "Indian Railways E-Procurement System for tendering & auctions.",
+        url: "https://www.ireps.gov.in",
+        icon: ShieldCheck,
+        color: "text-emerald-600",
+        bg: "bg-emerald-50",
+    },
+    {
+        name: "GeM Portal",
+        description: "Government e-Marketplace for common use goods & services.",
+        url: "https://gem.gov.in",
+        icon: ShoppingCart,
+        color: "text-blue-600",
+        bg: "bg-blue-50",
+    },
+    {
+        name: "RLDA",
+        description: "Rail Land Development Authority for commercial land use.",
+        url: "https://rlda.indianrailways.gov.in",
+        icon: Layout,
+        color: "text-amber-600",
+        bg: "bg-amber-50",
+    },
+    {
+        name: "NFR Official",
+        description: "Official zone website for Northeast Frontier Railway.",
+        url: "https://nfr.indianrailways.gov.in",
+        icon: Globe,
+        color: "text-purple-600",
+        bg: "bg-purple-50",
+    },
+    {
+        name: "CRIS",
+        description: "Centre for Railway Information Systems tech solutions.",
+        url: "https://www.cris.org.in",
+        icon: UserCheck,
+        color: "text-cyan-600",
+        bg: "bg-cyan-50",
+    },
+    {
+        name: "IRCTC Biz",
+        description: "Catering, hospitality and tourism partnership portals.",
+        url: "https://www.irctc.com",
+        icon: Building,
+        color: "text-rose-600",
+        bg: "bg-rose-50",
     },
 ];
 
@@ -252,6 +303,53 @@ const OpportunitiesHub = () => {
                 </div>
             </section>
 
+
+            {/* ─── OFFICIAL PORTALS ─────────────────────────────────── */}
+            <section className="py-20 bg-slate-50/50">
+                <div className="section-container">
+                    <div className="mx-auto max-w-2xl text-center mb-16">
+                        <span className="text-sm font-bold uppercase tracking-widest text-emerald-600">
+                            Gateway to Railways
+                        </span>
+                        <h2 className="mt-3 font-display text-4xl font-bold text-slate-900">
+                            Official Railway Portals
+                        </h2>
+                        <p className="mt-4 text-slate-600 font-medium text-lg">
+                            Direct access to the primary digital platforms for Indian Railways business and procurement.
+                        </p>
+                    </div>
+
+                    <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                        {portals.map((portal) => {
+                            const Icon = portal.icon;
+                            return (
+                                <a
+                                    key={portal.name}
+                                    href={portal.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="group flex flex-col p-6 rounded-3xl border border-white bg-white/40 backdrop-blur-md shadow-sm transition-all duration-300 hover:shadow-xl hover:shadow-emerald-500/5 hover:-translate-y-1 hover:border-emerald-200"
+                                >
+                                    <div className="flex items-center gap-4 mb-4">
+                                        <div className={`flex h-12 w-12 items-center justify-center rounded-2xl ${portal.bg} border border-white/50 shadow-inner group-hover:scale-110 transition-transform`}>
+                                            <Icon className={`h-6 w-6 ${portal.color}`} />
+                                        </div>
+                                        <h3 className="font-display text-xl font-bold text-slate-800 group-hover:text-emerald-700 transition-colors">
+                                            {portal.name}
+                                        </h3>
+                                    </div>
+                                    <p className="text-sm text-slate-500 font-medium leading-relaxed flex-1 mb-4">
+                                        {portal.description}
+                                    </p>
+                                    <div className="flex items-center gap-2 text-xs font-bold text-emerald-600 uppercase tracking-wider group-hover:gap-3 transition-all">
+                                        Visit Portal <ExternalLink className="h-3.5 w-3.5" />
+                                    </div>
+                                </a>
+                            );
+                        })}
+                    </div>
+                </div>
+            </section>
 
             {/* ─── HOW IT WORKS ────────────────────────────────────── */}
             <section className="py-20 lg:py-28">

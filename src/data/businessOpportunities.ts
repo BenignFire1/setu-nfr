@@ -17,6 +17,11 @@ export type SubCategory = {
     items: string[];
 };
 
+export type ExternalLink = {
+    label: string;
+    url: string;
+};
+
 export type OpportunityCategory = {
     id: string;
     title: string;
@@ -31,6 +36,7 @@ export type OpportunityCategory = {
     subCategories: SubCategory[];
     whoShouldApply: string;
     route: string;
+    links?: ExternalLink[];
 };
 
 export const opportunityCategories: OpportunityCategory[] = [
@@ -97,6 +103,10 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "Brands, media agencies, FMCG companies, telecom operators, educational institutions, and any business targeting the Northeast market.",
         route: "/opportunities/advertising",
+        links: [
+            { label: "IREPS (Tenders)", url: "https://www.ireps.gov.in" },
+            { label: "NFR Advertising Policy", url: "https://nfr.indianrailways.gov.in" },
+        ],
     },
     {
         id: "passenger-services",
@@ -158,6 +168,10 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "Service companies, hospitality businesses, NGOs, SHGs, and startups focused on passenger welfare and station management.",
         route: "/opportunities/passenger-services",
+        links: [
+            { label: "IRCTC (Partnerships)", url: "https://www.irctc.com" },
+            { label: "NFR Amenities Portal", url: "https://nfr.indianrailways.gov.in" },
+        ],
     },
     {
         id: "retail",
@@ -220,6 +234,10 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "Restaurant chains, food brands, retail franchises, FMCG companies, kiosk operators, and local entrepreneurs.",
         route: "/opportunities/retail",
+        links: [
+            { label: "IREPS (E-Auctions)", url: "https://www.ireps.gov.in" },
+            { label: "GeM (Govt Marketplace)", url: "https://gem.gov.in" },
+        ],
     },
     {
         id: "mobility",
@@ -380,6 +398,10 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "EPC contractors, civil engineering firms, architecture and urban planning companies, and infrastructure developers.",
         route: "/opportunities/infrastructure",
+        links: [
+            { label: "IREPS (Works Tenders)", url: "https://www.ireps.gov.in" },
+            { label: "RLDA (Land Development)", url: "https://rlda.indianrailways.gov.in" },
+        ],
     },
     {
         id: "consultancy",
@@ -529,6 +551,10 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "Logistics companies, freight forwarders, cement manufacturers, FMCG supply chain operators, cold chain providers, and goods transport aggregators.",
         route: "/opportunities/freight",
+        links: [
+            { label: "FMS (Freight Portal)", url: "https://www.fms.indianrailways.gov.in" },
+            { label: "Gati Shakti (Infrastructure)", url: "https://www.ireps.gov.in" },
+        ],
     },
     {
         id: "parcel",

@@ -7,6 +7,7 @@ import {
     Calendar,
     Users,
     ChevronRight,
+    ExternalLink,
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -248,6 +249,36 @@ const OpportunityDetail = () => {
                     </div>
                 </div>
             </section>
+
+            {/* ── USEFUL LINKS ───────────────────────────── */}
+            {category.links && category.links.length > 0 && (
+                <section className="py-12 border-t border-border">
+                    <div className="section-container">
+                        <div className="flex flex-col items-center text-center mb-8">
+                            <h2 className="font-display text-2xl font-bold text-foreground">
+                                Useful Resources & Links
+                            </h2>
+                            <p className="mt-2 text-muted-foreground max-w-xl">
+                                Official portals and policy documents relevant to {category.title} opportunities.
+                            </p>
+                        </div>
+                        <div className="flex flex-wrap justify-center gap-4">
+                            {category.links.map((link) => (
+                                <a
+                                    key={link.label}
+                                    href={link.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="inline-flex items-center gap-2 rounded-xl border border-border bg-card px-6 py-3 font-semibold text-primary hover:border-primary/40 hover:bg-primary/5 transition-all shadow-sm"
+                                >
+                                    {link.label}
+                                    <ExternalLink className="h-4 w-4" />
+                                </a>
+                            ))}
+                        </div>
+                    </div>
+                </section>
+            )}
 
             {/* ── PREV / NEXT NAVIGATION ───────────────────── */}
             <section className="border-t border-border py-10">

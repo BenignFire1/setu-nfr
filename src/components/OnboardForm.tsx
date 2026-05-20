@@ -53,7 +53,8 @@ const OnboardForm = () => {
         .from("proposals")
         .upload(fileName, proposalFile);
       if (uploadError) {
-        toast.error("Failed to upload proposal. Please try again.");
+        console.error("Supabase Storage Upload Error:", uploadError);
+        toast.error(`Failed to upload proposal: ${uploadError.message || 'Unknown error'}`);
         setLoading(false);
         return;
       }
@@ -75,7 +76,8 @@ const OnboardForm = () => {
 
     setLoading(false);
     if (error) {
-      toast.error("Something went wrong. Please try again.");
+      console.error("Supabase Database Insert Error:", error);
+      toast.error(`Submission failed: ${error.message || 'Unknown error'}`);
       return;
     }
     setSubmitted(true);
