@@ -9,6 +9,7 @@ import {
     Truck,
     Package,
     ScrollText,
+    Activity,
     LucideIcon,
 } from "lucide-react";
 
@@ -606,5 +607,22 @@ export const opportunityCategories: OpportunityCategory[] = [
         whoShouldApply:
             "Courier companies, e-commerce logistics providers, last-mile startups, SHGs, and parcel aggregators looking to leverage NFR's rail network for cost-effective delivery across the Northeast.",
         route: "/opportunities/parcel",
+    },
+    {
+        id: "unutilised-assets",
+        title: "Unutilised Assets",
+        icon: Activity,
+        tagline: "Re-activate dormant assets",
+        description:
+            "Explore opportunities to revive and monetize unutilized railway assets, including ATMs, advertising spaces, and catering units.",
+        color: "bg-slate-50",
+        iconColor: "text-slate-600",
+        borderColor: "hover:border-slate-300",
+        status: "Active",
+        deadline: "Open",
+        subCategories: [],
+        whoShouldApply:
+            "Entrepreneurs, local businesses, advertisers, and service providers looking to establish a presence in railway premises.",
+        route: "/opportunities/unutilised-assets",
     },
 ];

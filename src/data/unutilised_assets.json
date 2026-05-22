@@ -1,0 +1,2137 @@
+{
+  "KIR": [
+    {
+      "slNo": 1,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-KIR-Gen-111",
+      "idleSince": "02/05/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 2,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-RGJ-Gen-15",
+      "idleSince": "02/09/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 3,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-KIR-Gen-131",
+      "idleSince": "22/12/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/02/2026"
+    },
+    {
+      "slNo": 4,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-BOE-Gen-132",
+      "idleSince": "22/12/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/02/2026"
+    },
+    {
+      "slNo": 5,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-KNE-Gen-133",
+      "idleSince": "22/12/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/02/2026"
+    },
+    {
+      "slNo": 6,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-KIR-Gen-112",
+      "idleSince": "15/01/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 7,
+      "category": "ATM - General",
+      "assetId": "ATM-KIR-PRNA-Gen-13",
+      "idleSince": "22/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 8,
+      "category": "Advertising - On Station Premise (Digital)",
+      "assetId": "ADVT-KIR-DJ-OSD-158",
+      "idleSince": "20/11/2023",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 9,
+      "category": "Advertising - On Station Premise (Digital)",
+      "assetId": "ADVT-KIR-NJP-OSD-159",
+      "idleSince": "05/03/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 10,
+      "category": "Advertising - On Station Premise (Digital)",
+      "assetId": "ADVT-KIR-KIR-OSD-193",
+      "idleSince": "30/07/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 11,
+      "category": "Advertising - On Station Premise (Non-Digital)",
+      "assetId": "ADVT-KIR-DJ-OSN-157",
+      "idleSince": "20/11/2023",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 12,
+      "category": "Advertising - On Station Premise (Non-Digital)",
+      "assetId": "ADVT-KIR-DJ-OSN-173",
+      "idleSince": "20/11/2023",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 13,
+      "category": "Advertising - On Station Premise (Non-Digital)",
+      "assetId": "ADVT-KIR-KIR-OSN-192",
+      "idleSince": "30/07/2025",
+      "auctionsConducted": 5,
+      "bidsReceived": 7,
+      "lastAuctionDate": "26/03/2026"
+    },
+    {
+      "slNo": 14,
+      "category": "Advertising - On Station Premise (Non-Digital)",
+      "assetId": "ADVT-KIR-KIR-OSN-195",
+      "idleSince": "13/10/2025",
+      "auctionsConducted": 6,
+      "bidsReceived": 4,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 15,
+      "category": "Advertising - On Station Premise (Non-Digital)",
+      "assetId": "ADVT-KIR-KIR-OSN-198",
+      "idleSince": "24/11/2025",
+      "auctionsConducted": 5,
+      "bidsReceived": 18,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 16,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-KIR-OH-161",
+      "idleSince": "25/10/2022",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "04/06/2023"
+    },
+    {
+      "slNo": 17,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-JPG-OH-131",
+      "idleSince": "08/10/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 8,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 18,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-SGUJ-OH-129",
+      "idleSince": "19/10/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 2,
+      "lastAuctionDate": "06/11/2023"
+    },
+    {
+      "slNo": 19,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-DJ-OH-177",
+      "idleSince": "20/11/2023",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 20,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-NJP-OH-186",
+      "idleSince": "23/09/2024",
+      "auctionsConducted": 4,
+      "bidsReceived": 1,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 21,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-NJP-OH-188",
+      "idleSince": "29/10/2024",
+      "auctionsConducted": 3,
+      "bidsReceived": 2,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 22,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-NJP-OH-189",
+      "idleSince": "29/10/2024",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 23,
+      "category": "Advertising - Out of Home",
+      "assetId": "ADVT-KIR-NJP-OH-199",
+      "idleSince": "04/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 24,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-SI-GMU-64",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 7,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 25,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-JAU-GMU-66",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 26,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-SRI-GMU-68",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 7,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 27,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-MFA-GMU-71",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 28,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-EKI-GMU-72",
+      "idleSince": "22/02/2023",
+      "auctionsConducted": 9,
+      "bidsReceived": 0,
+      "lastAuctionDate": "26/03/2026"
+    },
+    {
+      "slNo": 29,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-GAGA-GMU-82",
+      "idleSince": "26/02/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "11/06/2023"
+    },
+    {
+      "slNo": 30,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-ADQ-GMU-83",
+      "idleSince": "26/02/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "11/06/2023"
+    },
+    {
+      "slNo": 31,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-AZR-GMU-86",
+      "idleSince": "28/02/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 32,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-AZR-GMU-87",
+      "idleSince": "28/02/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 33,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-RDP-GMU-90",
+      "idleSince": "28/02/2023",
+      "auctionsConducted": 6,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 34,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-GBN-GMU-97",
+      "idleSince": "09/03/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "16/03/2023"
+    },
+    {
+      "slNo": 35,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-RNX-GMU-101",
+      "idleSince": "02/03/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/03/2023"
+    },
+    {
+      "slNo": 36,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-MIYN-GMU-103",
+      "idleSince": "05/03/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "01/06/2023"
+    },
+    {
+      "slNo": 37,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-MIYN-GMU-104",
+      "idleSince": "05/03/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "01/06/2023"
+    },
+    {
+      "slNo": 38,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-PQD-GMU-108",
+      "idleSince": "05/03/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "01/06/2023"
+    },
+    {
+      "slNo": 39,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-LAV-GMU-110",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 40,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-KDPR-GMU-112",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 6,
+      "bidsReceived": 2,
+      "lastAuctionDate": "26/03/2026"
+    },
+    {
+      "slNo": 41,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-KDPR-GMU-114",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 6,
+      "bidsReceived": 2,
+      "lastAuctionDate": "26/03/2026"
+    },
+    {
+      "slNo": 42,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-NAK-GMU-84",
+      "idleSince": "15/01/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 43,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-RDP-GMU-91",
+      "idleSince": "11/03/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 44,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-BOE-GMU-178",
+      "idleSince": "08/05/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 45,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-KIR-GMU-197",
+      "idleSince": "28/08/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 46,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-ARR-GMU-200",
+      "idleSince": "07/09/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 47,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-SUD-GMU-207",
+      "idleSince": "08/09/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 48,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-RGJ-GMU-208",
+      "idleSince": "25/11/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 49,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-KGN-GMU-210",
+      "idleSince": "10/02/2026",
+      "auctionsConducted": 2,
+      "bidsReceived": 1,
+      "lastAuctionDate": "29/03/2026"
+    },
+    {
+      "slNo": 50,
+      "category": "Catering - General Minor Unit (GMU)",
+      "assetId": "Catg-KIR-GHUM-GMU-209",
+      "idleSince": "22/03/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 24,
+      "lastAuctionDate": "09/04/2026"
+    },
+    {
+      "slNo": 51,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-PRNA-SMU-27",
+      "idleSince": "08/12/2022",
+      "auctionsConducted": 1,
+      "bidsReceived": 1,
+      "lastAuctionDate": "03/01/2023"
+    },
+    {
+      "slNo": 52,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-PRNA-SMU-28",
+      "idleSince": "08/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 53,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-PRNA-SMU-30",
+      "idleSince": "08/12/2022",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "03/01/2023"
+    },
+    {
+      "slNo": 54,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-PRNA-SMU-33",
+      "idleSince": "08/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 2,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 55,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-ARQ-SMU-36",
+      "idleSince": "08/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 56,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-ARQ-SMU-37",
+      "idleSince": "08/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 7,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 57,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-RGJ-SMU-50",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 6,
+      "bidsReceived": 3,
+      "lastAuctionDate": "18/01/2026"
+    },
+    {
+      "slNo": 58,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-RGJ-SMU-49",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "26/12/2022"
+    },
+    {
+      "slNo": 59,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-FBG-SMU-46",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 60,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-FBG-SMU-45",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "26/12/2022"
+    },
+    {
+      "slNo": 61,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-FBG-SMU-44",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 62,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-FBG-SMU-43",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 63,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-FBG-SMU-41",
+      "idleSince": "09/12/2022",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/03/2023"
+    },
+    {
+      "slNo": 64,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-JBN-SMU-59",
+      "idleSince": "02/02/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 18,
+      "lastAuctionDate": "19/02/2023"
+    },
+    {
+      "slNo": 65,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-DNQ-SMU-62",
+      "idleSince": "20/02/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 66,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-DNQ-SMU-63",
+      "idleSince": "20/02/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 67,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-SI-SMU-65",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 7,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 68,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-JAU-SMU-67",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 69,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-SRI-SMU-69",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 7,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 70,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-SRI-SMU-70",
+      "idleSince": "21/02/2023",
+      "auctionsConducted": 7,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 71,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-EKI-SMU-74",
+      "idleSince": "22/02/2023",
+      "auctionsConducted": 6,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 72,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-MLFC-SMU-78",
+      "idleSince": "22/02/2023",
+      "auctionsConducted": 5,
+      "bidsReceived": 0,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 73,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KWE-SMU-88",
+      "idleSince": "09/03/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 74,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-JAG-SMU-92",
+      "idleSince": "09/03/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "16/03/2023"
+    },
+    {
+      "slNo": 75,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-SMH-SMU-95",
+      "idleSince": "09/03/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "16/03/2023"
+    },
+    {
+      "slNo": 76,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KUB-SMU-98",
+      "idleSince": "02/03/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/03/2023"
+    },
+    {
+      "slNo": 77,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KUQ-SMU-106",
+      "idleSince": "05/03/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "01/06/2023"
+    },
+    {
+      "slNo": 78,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KDPR-SMU-113",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 79,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-BKRD-SMU-119",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 80,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-BKRD-SMU-120",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 81,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-BKRD-SMU-121",
+      "idleSince": "06/03/2023",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 82,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KIR-SMU-134",
+      "idleSince": "10/05/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 13,
+      "lastAuctionDate": "20/06/2023"
+    },
+    {
+      "slNo": 83,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KIR-SMU-135",
+      "idleSince": "10/05/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 16,
+      "lastAuctionDate": "20/06/2023"
+    },
+    {
+      "slNo": 84,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-KIR-SMU-136",
+      "idleSince": "10/05/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 5,
+      "lastAuctionDate": "20/06/2023"
+    },
+    {
+      "slNo": 85,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-AUB-SMU-138",
+      "idleSince": "14/05/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "05/06/2023"
+    },
+    {
+      "slNo": 86,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-FBG-SMU-141",
+      "idleSince": "14/05/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "04/07/2023"
+    },
+    {
+      "slNo": 87,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-JBN-SMU-142",
+      "idleSince": "14/05/2023",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "04/07/2023"
+    },
+    {
+      "slNo": 88,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-ARQ-SMU-144",
+      "idleSince": "18/05/2023",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "05/06/2023"
+    },
+    {
+      "slNo": 89,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-BOE-SMU-149",
+      "idleSince": "06/07/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 11,
+      "lastAuctionDate": "28/09/2023"
+    },
+    {
+      "slNo": 90,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-SM-SMU-151",
+      "idleSince": "06/07/2023",
+      "auctionsConducted": 8,
+      "bidsReceived": 2,
+      "lastAuctionDate": "06/03/2025"
+    },
+    {
+      "slNo": 91,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-DLK-SMU-152",
+      "idleSince": "06/07/2023",
+      "auctionsConducted": 3,
+      "bidsReceived": 9,
+      "lastAuctionDate": "28/09/2023"
+    },
+    {
+      "slNo": 92,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-BNDP-SMU-75",
+      "idleSince": "08/10/2023",
+      "auctionsConducted": 5,
+      "bidsReceived": 0,
+      "lastAuctionDate": "19/12/2024"
+    },
+    {
+      "slNo": 93,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-OMLF-SMU-79",
+      "idleSince": "08/10/2023",
+      "auctionsConducted": 10,
+      "bidsReceived": 0,
+      "lastAuctionDate": "26/03/2026"
+    },
+    {
+      "slNo": 94,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-SGUJ-SMU-57",
+      "idleSince": "06/12/2023",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 95,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-ARQ-SMU-154",
+      "idleSince": "19/05/2024",
+      "auctionsConducted": 2,
+      "bidsReceived": 1,
+      "lastAuctionDate": "13/08/2024"
+    },
+    {
+      "slNo": 96,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-AUB-SMU-137",
+      "idleSince": "10/06/2024",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/08/2024"
+    },
+    {
+      "slNo": 97,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-ARQ-SMU-153",
+      "idleSince": "11/11/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 98,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-RGJ-SMU-51",
+      "idleSince": "27/04/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 99,
+      "category": "Catering - Special Minor Unit (SMU)",
+      "assetId": "Catg-KIR-BTF-SMU-102",
+      "idleSince": "27/04/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 100,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-FBG-MPS-3",
+      "idleSince": "06/06/2024",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "18/01/2026"
+    },
+    {
+      "slNo": 101,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-MLFC-MPS-4",
+      "idleSince": "06/06/2024",
+      "auctionsConducted": 2,
+      "bidsReceived": 7,
+      "lastAuctionDate": "13/08/2024"
+    },
+    {
+      "slNo": 102,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-DJ-MPS-14",
+      "idleSince": "17/12/2024",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 103,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-KIR-MPS-1",
+      "idleSince": "15/01/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 17,
+      "lastAuctionDate": "18/01/2026"
+    },
+    {
+      "slNo": 104,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-DJ-MPS-29",
+      "idleSince": "22/05/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 105,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-FBG-MPS-12",
+      "idleSince": "23/07/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 38,
+      "lastAuctionDate": "18/01/2026"
+    },
+    {
+      "slNo": 106,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-JBN-MPS-13",
+      "idleSince": "29/09/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 24,
+      "lastAuctionDate": "18/01/2026"
+    },
+    {
+      "slNo": 107,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-DJ-MPS-36",
+      "idleSince": "10/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 108,
+      "category": "MPS - Multi Purpose Stalls",
+      "assetId": "MPS-KIR-KIR-MPS-9",
+      "idleSince": "23/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 109,
+      "category": "Misc-Static-Services - Rail Coach Restaurant",
+      "assetId": "MSS-KIR-NJP-RCR-22",
+      "idleSince": "07/10/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 5,
+      "lastAuctionDate": "12/03/2026"
+    },
+    {
+      "slNo": 110,
+      "category": "Misc-Static-Services - Rail Coach Restaurant",
+      "assetId": "MSS-KIR-JPG-RCR-24",
+      "idleSince": "17/12/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 111,
+      "category": "Misc-Static-Services - Rail Coach Restaurant",
+      "assetId": "MSS-KIR-KIR-RCR-26",
+      "idleSince": "17/05/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 112,
+      "category": "Misc-Static-Services - Static General",
+      "assetId": "MSS-KIR-NJP-STGen-18",
+      "idleSince": "12/01/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 113,
+      "category": "Misc-Static-Services - Static General",
+      "assetId": "MSS-KIR-NJP-STGen-19",
+      "idleSince": "16/05/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 114,
+      "category": "Parcel-Parcel Van",
+      "assetId": "15712-15711-VP-1-KIR-HWH",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 13,
+      "bidsReceived": 7,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 115,
+      "category": "Parcel-Parcel Van",
+      "assetId": "15715-15716-VP-1-KNE-AII",
+      "idleSince": "18/03/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 116,
+      "category": "Parcel-SLR",
+      "assetId": "13146-SLR-F1-RDP-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 8,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 117,
+      "category": "Parcel-SLR",
+      "assetId": "13162-SLR-R1-BLGT-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 10,
+      "bidsReceived": 1,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 118,
+      "category": "Parcel-SLR",
+      "assetId": "13162-SLR-F2-BLGT-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 10,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 119,
+      "category": "Parcel-SLR",
+      "assetId": "13162-SLR-F1-BLGT-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 10,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 120,
+      "category": "Parcel-SLR",
+      "assetId": "13054-SLR-F1-RDP-HWH",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 11,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 121,
+      "category": "Parcel-SLR",
+      "assetId": "12487-SLR-F1-JBN-ANVT",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 13,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 122,
+      "category": "Parcel-SLR",
+      "assetId": "15712-SLR-F1-KIR-HWH",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 11,
+      "bidsReceived": 1,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 123,
+      "category": "Parcel-SLR",
+      "assetId": "12364-SLR-R1-HDB-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 10,
+      "bidsReceived": 1,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 124,
+      "category": "Parcel-SLR",
+      "assetId": "12364-SLR-F2-HDB-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 10,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 125,
+      "category": "Parcel-SLR",
+      "assetId": "12364-SLR-F1-HDB-KOAA",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 10,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 126,
+      "category": "Parcel-SLR",
+      "assetId": "12407-SLR-F1-NJP-ASR",
+      "idleSince": "08/05/2022",
+      "auctionsConducted": 11,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 127,
+      "category": "Parcel-SLR",
+      "assetId": "15703-SLR-R1-NJP-BNGN",
+      "idleSince": "16/05/2022",
+      "auctionsConducted": 9,
+      "bidsReceived": 0,
+      "lastAuctionDate": "10/12/2025"
+    },
+    {
+      "slNo": 128,
+      "category": "Parcel-SLR",
+      "assetId": "15703-SLR-F2-NJP-BNGN",
+      "idleSince": "16/05/2022",
+      "auctionsConducted": 9,
+      "bidsReceived": 0,
+      "lastAuctionDate": "10/12/2025"
+    },
+    {
+      "slNo": 129,
+      "category": "Parcel-SLR",
+      "assetId": "15703-SLR-F1-NJP-BNGN",
+      "idleSince": "16/05/2022",
+      "auctionsConducted": 9,
+      "bidsReceived": 0,
+      "lastAuctionDate": "10/12/2025"
+    },
+    {
+      "slNo": 130,
+      "category": "Parcel-SLR",
+      "assetId": "15707-SLR-F1-KIR-ASR",
+      "idleSince": "16/05/2022",
+      "auctionsConducted": 13,
+      "bidsReceived": 13,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 131,
+      "category": "Parcel-SLR",
+      "assetId": "15712-SLR-R1-KIR-HWH",
+      "idleSince": "27/07/2022",
+      "auctionsConducted": 8,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 132,
+      "category": "Parcel-SLR",
+      "assetId": "15710-SLR-R1-NJP-MLDT",
+      "idleSince": "14/09/2022",
+      "auctionsConducted": 6,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 133,
+      "category": "Parcel-SLR",
+      "assetId": "15710-SLR-F2-NJP-MLDT",
+      "idleSince": "14/09/2022",
+      "auctionsConducted": 6,
+      "bidsReceived": 1,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 134,
+      "category": "Parcel-SLR",
+      "assetId": "15710-SLR-F1-NJP-MLDT",
+      "idleSince": "14/09/2022",
+      "auctionsConducted": 6,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 135,
+      "category": "Parcel-SLR",
+      "assetId": "19602-SLR-F1-NJP-UDZ",
+      "idleSince": "12/04/2023",
+      "auctionsConducted": 9,
+      "bidsReceived": 0,
+      "lastAuctionDate": "17/12/2025"
+    },
+    {
+      "slNo": 136,
+      "category": "Parcel-SLR",
+      "assetId": "15705-SLR-F1-KIR-DLI",
+      "idleSince": "04/10/2024",
+      "auctionsConducted": 5,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 137,
+      "category": "Parcel-SLR",
+      "assetId": "15463-SLR-F2-BLGT-SGUJ",
+      "idleSince": "20/01/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 138,
+      "category": "Parcel-SLR",
+      "assetId": "15463-SLR-F1-BLGT-SGUJ",
+      "idleSince": "20/01/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 139,
+      "category": "Parcel-SLR",
+      "assetId": "15467-SLR-R1-SGUJ-BXT",
+      "idleSince": "09/02/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 140,
+      "category": "Parcel-SLR",
+      "assetId": "15467-SLR-F1-SGUJ-BXT",
+      "idleSince": "09/02/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 1,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 141,
+      "category": "Parcel-SLR",
+      "assetId": "15722-SLR-F1-NJP-DGHA",
+      "idleSince": "06/03/2025",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 142,
+      "category": "Parcel-SLR",
+      "assetId": "12042-SLR-F1-NJP-HWH",
+      "idleSince": "06/03/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 143,
+      "category": "Parcel-SLR",
+      "assetId": "15467-SLR-F2-SGUJ-BXT",
+      "idleSince": "31/03/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 144,
+      "category": "Parcel-SLR",
+      "assetId": "28182-SLR-R1-KIR-TATA",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 1,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 145,
+      "category": "Parcel-SLR",
+      "assetId": "28182-SLR-F1-KIR-TATA",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 146,
+      "category": "Parcel-SLR",
+      "assetId": "28182-SLR-F2-KIR-TATA",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 147,
+      "category": "Parcel-SLR",
+      "assetId": "13432-SLR-R1-BLGT-NDAE",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "17/12/2025"
+    },
+    {
+      "slNo": 148,
+      "category": "Parcel-SLR",
+      "assetId": "13432-SLR-F2-BLGT-NDAE",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "17/12/2025"
+    },
+    {
+      "slNo": 149,
+      "category": "Parcel-SLR",
+      "assetId": "13432-SLR-F1-BLGT-NDAE",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "17/12/2025"
+    },
+    {
+      "slNo": 150,
+      "category": "Parcel-SLR",
+      "assetId": "15720-SLR-R1-SGUJ-KIR",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 151,
+      "category": "Parcel-SLR",
+      "assetId": "15720-SLR-F2-SGUJ-KIR",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 152,
+      "category": "Parcel-SLR",
+      "assetId": "15720-SLR-F1-SGUJ-KIR",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 153,
+      "category": "Parcel-SLR",
+      "assetId": "15719-SLR-F2-KIR-SGUJ",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 154,
+      "category": "Parcel-SLR",
+      "assetId": "13064-SLR-F1-BLGT-HWH",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 155,
+      "category": "Parcel-SLR",
+      "assetId": "15713-SLR-F1-KIR-PNBE",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/11/2025"
+    },
+    {
+      "slNo": 156,
+      "category": "Parcel-SLR",
+      "assetId": "15767-SLR-F1-SGUJ-APDJ",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 157,
+      "category": "Parcel-SLR",
+      "assetId": "15767-SLR-F2-SGUJ-APDJ",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 158,
+      "category": "Parcel-SLR",
+      "assetId": "15767-SLR-R1-SGUJ-APDJ",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 159,
+      "category": "Parcel-SLR",
+      "assetId": "15724-SLR-F1-SGUT-JBN",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 1,
+      "lastAuctionDate": "08/06/2025"
+    },
+    {
+      "slNo": 160,
+      "category": "Parcel-SLR",
+      "assetId": "15723-SLR-F1-JBN-SGUT",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "08/06/2025"
+    },
+    {
+      "slNo": 161,
+      "category": "Parcel-SLR",
+      "assetId": "14011-SLR-F1-RDP-ANVT",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 1,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 162,
+      "category": "Parcel-SLR",
+      "assetId": "15283-SLR-R1-MHI-JYG",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 163,
+      "category": "Parcel-SLR",
+      "assetId": "15283-SLR-F2-MHI-JYG",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 164,
+      "category": "Parcel-SLR",
+      "assetId": "15283-SLR-F1-MHI-JYG",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 165,
+      "category": "Parcel-SLR",
+      "assetId": "15719-SLR-F1-KIR-SGUJ",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 166,
+      "category": "Parcel-SLR",
+      "assetId": "15719-SLR-R1-KIR-SGUJ",
+      "idleSince": "08/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "25/05/2025"
+    },
+    {
+      "slNo": 167,
+      "category": "Parcel-SLR",
+      "assetId": "13213-SLR-R1-JBN-SHC",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/11/2025"
+    },
+    {
+      "slNo": 168,
+      "category": "Parcel-SLR",
+      "assetId": "13211-SLR-F1-JBN-DNR",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/11/2025"
+    },
+    {
+      "slNo": 169,
+      "category": "Parcel-SLR",
+      "assetId": "13211-SLR-F2-JBN-DNR",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 170,
+      "category": "Parcel-SLR",
+      "assetId": "13211-SLR-R1-JBN-DNR",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 171,
+      "category": "Parcel-SLR",
+      "assetId": "13213-SLR-F1-JBN-SHC",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/11/2025"
+    },
+    {
+      "slNo": 172,
+      "category": "Parcel-SLR",
+      "assetId": "13213-SLR-F2-JBN-SHC",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/11/2025"
+    },
+    {
+      "slNo": 173,
+      "category": "Parcel-SLR",
+      "assetId": "13190-SLR-F1-BLGT-SDAH",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/11/2025"
+    },
+    {
+      "slNo": 174,
+      "category": "Parcel-SLR",
+      "assetId": "55730-SLR-F1-RDP-KIR",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "27/06/2025"
+    },
+    {
+      "slNo": 175,
+      "category": "Parcel-SLR",
+      "assetId": "55730-SLR-F2-RDP-KIR",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "27/06/2025"
+    },
+    {
+      "slNo": 176,
+      "category": "Parcel-SLR",
+      "assetId": "55730-SLR-R1-RDP-KIR",
+      "idleSince": "13/04/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "27/06/2025"
+    },
+    {
+      "slNo": 177,
+      "category": "Parcel-SLR",
+      "assetId": "15502-SLR-R1-JBN-RXL",
+      "idleSince": "02/06/2025",
+      "auctionsConducted": 2,
+      "bidsReceived": 0,
+      "lastAuctionDate": "13/10/2025"
+    },
+    {
+      "slNo": 178,
+      "category": "Parcel-SLR",
+      "assetId": "15502-SLR-F2-JBN-RXL",
+      "idleSince": "02/06/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 179,
+      "category": "Parcel-SLR",
+      "assetId": "15502-SLR-F1-JBN-RXL",
+      "idleSince": "02/06/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 180,
+      "category": "Parcel-SLR",
+      "assetId": "15463-SLR-R1-BLGT-SGUJ",
+      "idleSince": "15/06/2025",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 181,
+      "category": "Parcel-SLR",
+      "assetId": "22612-SLR-F1-NJP-MAS",
+      "idleSince": "13/07/2025",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/07/2025"
+    },
+    {
+      "slNo": 182,
+      "category": "Parcel-SLR",
+      "assetId": "12344-SLR-R1-HDB-SDAH",
+      "idleSince": "24/09/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 183,
+      "category": "Parcel-SLR",
+      "assetId": "12344-SLR-F1-HDB-SDAH",
+      "idleSince": "29/10/2025",
+      "auctionsConducted": 4,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 184,
+      "category": "Parcel-SLR",
+      "assetId": "12523-SLR-F1-NJP-ANVT",
+      "idleSince": "31/12/2025",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 185,
+      "category": "Parcel-SLR",
+      "assetId": "13245-SLR-F1-NJP-ARA",
+      "idleSince": "31/12/2025",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "15/01/2026"
+    },
+    {
+      "slNo": 186,
+      "category": "Parcel-SLR",
+      "assetId": "15675-SLR-F1-NJP-GHY",
+      "idleSince": "15/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 187,
+      "category": "Parcel-SLR",
+      "assetId": "15675-SLR-R1-NJP-GHY",
+      "idleSince": "15/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 1,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 188,
+      "category": "Parcel-SLR",
+      "assetId": "13034-SLR-F2-KIR-HWH",
+      "idleSince": "16/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 0,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 189,
+      "category": "Parcel-SLR",
+      "assetId": "15464-SLR-F1-HDB-BLGT",
+      "idleSince": "19/05/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 190,
+      "category": "Parcel-SLR",
+      "assetId": "15464-SLR-R1-HDB-BLGT",
+      "idleSince": "19/05/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 191,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-ARR-MX-111",
+      "idleSince": "22/07/2024",
+      "auctionsConducted": 7,
+      "bidsReceived": 19,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 192,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-MLFC-MX-141",
+      "idleSince": "23/03/2025",
+      "auctionsConducted": 7,
+      "bidsReceived": 3,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 193,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-SI-MX-93",
+      "idleSince": "26/05/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 194,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-SM-MX-142",
+      "idleSince": "31/07/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 195,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-PRNA-MX-143",
+      "idleSince": "31/07/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 61,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 196,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-BNDP-MX-162",
+      "idleSince": "13/08/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 48,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 197,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-KNE-MX-105",
+      "idleSince": "24/08/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 11,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 198,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-BORA-MX-140",
+      "idleSince": "16/09/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 31,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 199,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-EKI-MX-103",
+      "idleSince": "16/09/2025",
+      "auctionsConducted": 3,
+      "bidsReceived": 14,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 200,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-BNDP-MX-9",
+      "idleSince": "25/09/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 201,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-BLGT-MX-150",
+      "idleSince": "26/10/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 202,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-KIR-MX-2",
+      "idleSince": "29/11/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 203,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-SGUJ-MX-89",
+      "idleSince": "25/12/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 204,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-KGN-MX-91",
+      "idleSince": "01/01/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 205,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-FBG-MX-139",
+      "idleSince": "27/01/2026",
+      "auctionsConducted": 3,
+      "bidsReceived": 6,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 206,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-AUB-MX-96",
+      "idleSince": "27/01/2026",
+      "auctionsConducted": 3,
+      "bidsReceived": 0,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 207,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-TKG-MX-138",
+      "idleSince": "29/01/2026",
+      "auctionsConducted": 3,
+      "bidsReceived": 55,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 208,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-GRMP-MX-7",
+      "idleSince": "16/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 209,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-NJP-MX-10",
+      "idleSince": "16/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 210,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-NJP-MX-12",
+      "idleSince": "16/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 211,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-KIR-MX-157",
+      "idleSince": "27/02/2026",
+      "auctionsConducted": 2,
+      "bidsReceived": 12,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 212,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-KIR-MX-173",
+      "idleSince": "08/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 1,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 213,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-SGUJ-MX-167",
+      "idleSince": "16/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 22,
+      "lastAuctionDate": "13/05/2026"
+    },
+    {
+      "slNo": 214,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-GHUM-MX-92",
+      "idleSince": "27/04/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 215,
+      "category": "Parking - Mixed",
+      "assetId": "PARKING-KIR-NJP-MX-174",
+      "idleSince": "14/05/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 216,
+      "category": "Parking - Passenger Carrying Commercial Vehicles",
+      "assetId": "PARKING-KIR-NJP-PCCV-144",
+      "idleSince": "23/03/2025",
+      "auctionsConducted": 7,
+      "bidsReceived": 6,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 217,
+      "category": "Parking - Passenger Carrying Commercial Vehicles",
+      "assetId": "PARKING-KIR-MLFC-PCCV-151",
+      "idleSince": "05/05/2025",
+      "auctionsConducted": 6,
+      "bidsReceived": 9,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 218,
+      "category": "Parking - Passenger Carrying Commercial Vehicles",
+      "assetId": "PARKING-KIR-JBN-PCCV-147",
+      "idleSince": "11/07/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 219,
+      "category": "Parking - Passenger Carrying Commercial Vehicles",
+      "assetId": "PARKING-KIR-FBG-PCCV-156",
+      "idleSince": "29/01/2026",
+      "auctionsConducted": 3,
+      "bidsReceived": 7,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 220,
+      "category": "Parking - Passenger Carrying Commercial Vehicles",
+      "assetId": "PARKING-KIR-KIR-PCCV-155",
+      "idleSince": "27/02/2026",
+      "auctionsConducted": 2,
+      "bidsReceived": 7,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 221,
+      "category": "Pay and Use - Lounges / Waiting / Retiring / Cloak Rooms",
+      "assetId": "PnU-KIR-NJP-WRL-121",
+      "idleSince": "09/03/2023",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 222,
+      "category": "Pay and Use - Lounges / Waiting / Retiring / Cloak Rooms",
+      "assetId": "PnU-KIR-SGUJ-WRL-196",
+      "idleSince": "10/03/2024",
+      "auctionsConducted": 8,
+      "bidsReceived": 80,
+      "lastAuctionDate": "15/04/2026"
+    },
+    {
+      "slNo": 223,
+      "category": "Pay and Use - Lounges / Waiting / Retiring / Cloak Rooms",
+      "assetId": "PnU-KIR-KIR-WRL-119",
+      "idleSince": "08/10/2024",
+      "auctionsConducted": 9,
+      "bidsReceived": 54,
+      "lastAuctionDate": "17/05/2026"
+    },
+    {
+      "slNo": 224,
+      "category": "Pay and Use - Lounges / Waiting / Retiring / Cloak Rooms",
+      "assetId": "PnU-KIR-FBG-WRL-128",
+      "idleSince": "20/07/2025",
+      "auctionsConducted": 6,
+      "bidsReceived": 11,
+      "lastAuctionDate": "17/05/2026"
+    },
+    {
+      "slNo": 225,
+      "category": "Pay and Use - Lounges / Waiting / Retiring / Cloak Rooms",
+      "assetId": "PnU-KIR-KNE-WRL-118",
+      "idleSince": "22/10/2025",
+      "auctionsConducted": 6,
+      "bidsReceived": 28,
+      "lastAuctionDate": "17/05/2026"
+    },
+    {
+      "slNo": 226,
+      "category": "Pay and Use - Lounges / Waiting / Retiring / Cloak Rooms",
+      "assetId": "PnU-KIR-KIR-WRL-187",
+      "idleSince": "04/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 227,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-PRNA-Toi-16",
+      "idleSince": "08/06/2022",
+      "auctionsConducted": 1,
+      "bidsReceived": 21,
+      "lastAuctionDate": "19/07/2022"
+    },
+    {
+      "slNo": 228,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-MHI-Toi-150",
+      "idleSince": "07/01/2024",
+      "auctionsConducted": 1,
+      "bidsReceived": 10,
+      "lastAuctionDate": "24/01/2024"
+    },
+    {
+      "slNo": 229,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-NJP-Toi-78",
+      "idleSince": "28/08/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 230,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-SGUJ-Toi-76",
+      "idleSince": "11/09/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 231,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-JPG-Toi-82",
+      "idleSince": "10/10/2025",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 232,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-RGJ-Toi-9",
+      "idleSince": "22/01/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 233,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-ARQ-Toi-21",
+      "idleSince": "09/02/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 234,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-AUB-Toi-218",
+      "idleSince": "09/03/2026",
+      "auctionsConducted": 2,
+      "bidsReceived": 15,
+      "lastAuctionDate": "29/04/2026"
+    },
+    {
+      "slNo": 235,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-AUB-Toi-194",
+      "idleSince": "10/03/2026",
+      "auctionsConducted": 0,
+      "bidsReceived": 0,
+      "lastAuctionDate": "----"
+    },
+    {
+      "slNo": 236,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-BOE-Toi-211",
+      "idleSince": "21/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 1,
+      "lastAuctionDate": "14/05/2026"
+    },
+    {
+      "slNo": 237,
+      "category": "Pay and Use - Toilets",
+      "assetId": "PnU-KIR-PRNA-Toi-208",
+      "idleSince": "27/04/2026",
+      "auctionsConducted": 1,
+      "bidsReceived": 39,
+      "lastAuctionDate": "18/05/2026"
+    }
+  ]
+}

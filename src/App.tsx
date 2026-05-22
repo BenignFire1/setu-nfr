@@ -17,6 +17,7 @@ import ContactPage from "./pages/ContactPage";
 import PoliciesPage from "./pages/PoliciesPage";
 import SuccessStoriesPage from "./pages/SuccessStoriesPage";
 import StationMapPage from "./pages/StationMapPage";
+import UnutilisedAssetsPage from "./pages/UnutilisedAssetsPage";
 import GlobalLayout from "./components/GlobalLayout";
 
 const queryClient = new QueryClient();
@@ -32,6 +33,7 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/opportunities" element={<OpportunitiesHub />} />
+            <Route path="/opportunities/unutilised-assets" element={<UnutilisedAssetsPage />} />
             <Route path="/opportunities/:categoryId" element={<OpportunityDetail />} />
             <Route path="/admin-login" element={<AdminLogin />} />
             <Route path="/admin" element={<AdminPanel />} />
